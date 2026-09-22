@@ -1,0 +1,339 @@
+{
+  "movies": {
+    "killer-bean-forever": {
+      "name": "Killer Bean Forever",
+      "id": "36702",
+      "rating": null,
+      "year": 2008,
+      "liked": true
+    },
+    "poor-things-2023": {
+      "name": "Poor Things",
+      "id": "710352",
+      "rating": 9,
+      "year": 2023,
+      "liked": true
+    },
+    "the-killing-of-a-sacred-deer": {
+      "name": "The Killing of a Sacred Deer",
+      "id": "333310",
+      "rating": 10,
+      "year": 2017,
+      "liked": true
+    },
+    "porco-rosso": {
+      "name": "Porco Rosso",
+      "id": "45130",
+      "rating": 8,
+      "year": 1992,
+      "liked": true
+    },
+    "killers-of-the-flower-moon": {
+      "name": "Killers of the Flower Moon",
+      "id": "398009",
+      "rating": 10,
+      "year": 2023,
+      "liked": true
+    },
+    "jules-2023": {
+      "name": "Jules",
+      "id": "966858",
+      "rating": 9,
+      "year": 2023,
+      "liked": true
+    },
+    "blood-quantum": {
+      "name": "Blood Quantum",
+      "id": "519755",
+      "rating": 6,
+      "year": 2019,
+      "liked": true
+    },
+    "possessor": {
+      "name": "Possessor",
+      "id": "368540",
+      "rating": null,
+      "year": 2020,
+      "liked": true
+    },
+    "chernobyl": {
+      "name": "Chernobyl",
+      "id": "532082",
+      "rating": 10,
+      "year": 2019,
+      "liked": true
+    },
+    "the-big-lebowski": {
+      "name": "The Big Lebowski",
+      "id": "51935",
+      "rating": 10,
+      "year": 1998,
+      "liked": true
+    },
+    "pig-2021": {
+      "name": "Pig",
+      "id": "561763",
+      "rating": 10,
+      "year": 2021,
+      "liked": true
+    },
+    "dogtooth": {
+      "name": "Dogtooth",
+      "id": "25809",
+      "rating": 9,
+      "year": 2009,
+      "liked": true
+    },
+    "smoke-signals": {
+      "name": "Smoke Signals",
+      "id": "38750",
+      "rating": 9,
+      "year": 1998,
+      "liked": true
+    },
+    "green-room": {
+      "name": "Green Room",
+      "id": "241052",
+      "rating": 9,
+      "year": 2015,
+      "liked": true
+    },
+    "love-exposure": {
+      "name": "Love Exposure",
+      "id": "33686",
+      "rating": 10,
+      "year": 2008,
+      "liked": true
+    },
+    "tag": {
+      "name": "Tag",
+      "id": "269661",
+      "rating": 9,
+      "year": 2015,
+      "liked": true
+    },
+    "eighth-grade": {
+      "name": "Eighth Grade",
+      "id": "420451",
+      "rating": 8,
+      "year": 2018,
+      "liked": true
+    },
+    "13-cameras": {
+      "name": "13 Cameras",
+      "id": "278046",
+      "rating": 8,
+      "year": 2015,
+      "liked": true
+    },
+    "killer-klowns-from-outer-space": {
+      "name": "Killer Klowns from Outer Space",
+      "id": "41672",
+      "rating": 8,
+      "year": 1988,
+      "liked": true
+    },
+    "hereditary": {
+      "name": "Hereditary",
+      "id": "424348",
+      "rating": 10,
+      "year": 2018,
+      "liked": true
+    },
+    "altered-states": {
+      "name": "Altered States",
+      "id": "45206",
+      "rating": 6,
+      "year": 1980,
+      "liked": true
+    },
+    "leon-the-professional": {
+      "name": "L\u00e9on: The Professional",
+      "id": "51949",
+      "rating": 9,
+      "year": 1994,
+      "liked": true
+    },
+    "the-green-mile": {
+      "name": "The Green Mile",
+      "id": "51613",
+      "rating": null,
+      "year": 1999,
+      "liked": true
+    },
+    "parasite-2019": {
+      "name": "Parasite",
+      "id": "426406",
+      "rating": 10,
+      "year": 2019,
+      "liked": true
+    },
+    "tickled": {
+      "name": "Tickled",
+      "id": "308541",
+      "rating": 6,
+      "year": 2016,
+      "liked": true
+    },
+    "we-need-to-talk-about-kevin": {
+      "name": "We Need to Talk About Kevin",
+      "id": "57622",
+      "rating": 9,
+      "year": 2011,
+      "liked": true
+    },
+    "the-wailing": {
+      "name": "The Wailing",
+      "id": "220556",
+      "rating": 10,
+      "year": 2016,
+      "liked": true
+    },
+    "one-flew-over-the-cuckoos-nest": {
+      "name": "One Flew Over the Cuckoo's Nest",
+      "id": "51600",
+      "rating": 9,
+      "year": 1975,
+      "liked": true
+    },
+    "the-stanford-prison-experiment": {
+      "name": "The Stanford Prison Experiment",
+      "id": "234811",
+      "rating": 7,
+      "year": 2015,
+      "liked": true
+    },
+    "a-scanner-darkly": {
+      "name": "A Scanner Darkly",
+      "id": "49710",
+      "rating": 10,
+      "year": 2006,
+      "liked": true
+    },
+    "history-of-the-entire-world-i-guess": {
+      "name": "history of the entire world, i guess",
+      "id": "663679",
+      "rating": null,
+      "year": 2017,
+      "liked": true
+    },
+    "spirited-away": {
+      "name": "Spirited Away",
+      "id": "51921",
+      "rating": 10,
+      "year": 2001,
+      "liked": true
+    },
+    "el-camino-a-breaking-bad-movie": {
+      "name": "El Camino: A Breaking Bad Movie",
+      "id": "488575",
+      "rating": 8,
+      "year": 2019,
+      "liked": true
+    },
+    "creep-2014": {
+      "name": "Creep",
+      "id": "174928",
+      "rating": 8,
+      "year": 2014,
+      "liked": true
+    },
+    "train-to-busan": {
+      "name": "Train to Busan",
+      "id": "330912",
+      "rating": 10,
+      "year": 2016,
+      "liked": true
+    },
+    "the-silence-of-the-lambs": {
+      "name": "The Silence of the Lambs",
+      "id": "51782",
+      "rating": null,
+      "year": 1991,
+      "liked": true
+    },
+    "crystal-fairy-the-magical-cactus": {
+      "name": "Crystal Fairy & the Magical Cactus",
+      "id": "117584",
+      "rating": 9,
+      "year": 2013,
+      "liked": true
+    },
+    "pg-psycho-goreman": {
+      "name": "PG: Psycho Goreman",
+      "id": "595068",
+      "rating": 8,
+      "year": 2020,
+      "liked": true
+    },
+    "redline": {
+      "name": "Redline",
+      "id": "57598",
+      "rating": 10,
+      "year": 2009,
+      "liked": true
+    },
+    "world-of-tomorrow-episode-three-the-absent-destinations-of-david-prime": {
+      "name": "World of Tomorrow Episode Three: The Absent Destinations of David Prime",
+      "id": "652118",
+      "rating": 6,
+      "year": 2020,
+      "liked": true
+    },
+    "world-of-tomorrow-episode-two-the-burden-of-other-peoples-thoughts": {
+      "name": "World of Tomorrow Episode Two: The Burden of Other People's Thoughts",
+      "id": "402903",
+      "rating": 10,
+      "year": 2017,
+      "liked": true
+    },
+    "world-of-tomorrow": {
+      "name": "World of Tomorrow",
+      "id": "230808",
+      "rating": 10,
+      "year": 2015,
+      "liked": true
+    },
+    "its-such-a-beautiful-day": {
+      "name": "It's Such a Beautiful Day",
+      "id": "420137",
+      "rating": 10,
+      "year": 2012,
+      "liked": true
+    },
+    "scott-pilgrim-vs-the-world": {
+      "name": "Scott Pilgrim vs. the World",
+      "id": "37833",
+      "rating": null,
+      "year": 2010,
+      "liked": true
+    },
+    "midsommar": {
+      "name": "Midsommar",
+      "id": "459564",
+      "rating": 9,
+      "year": 2019,
+      "liked": true
+    },
+    "the-conjuring": {
+      "name": "The Conjuring",
+      "id": "106262",
+      "rating": 8,
+      "year": 2013,
+      "liked": true
+    },
+    "pulp-fiction": {
+      "name": "Pulp Fiction",
+      "id": "51444",
+      "rating": null,
+      "year": 1994,
+      "liked": true
+    }
+  },
+  "count": 47,
+  "liked_count": 47,
+  "rating_count": 40,
+  "liked_percentage": 100.0,
+  "rating_percentage": 85.11,
+  "rating_average": 8.85
+}

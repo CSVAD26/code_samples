@@ -1,0 +1,298 @@
+{
+  "metadata": {
+    "export_timestamp": "2025-11-25T20:12:10.894917Z",
+    "source_url": "https://letterboxd.com/ajax/activity-pagination/punkcowgrl/following",
+    "total_activities": 20
+  },
+  "activities": {
+    "10273932604": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:12:02.342000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked tribxy\u2019s  \u2605\u2605\u2605\u2605\u2605  review of Butch Cassidy and the Sundance Kid",
+        "movie": {
+          "title": "Butch Cassidy and the Sundance Kid",
+          "slug": "butch-cassidy-and-the-sundance-kid",
+          "url": "https://letterboxd.com/film/butch-cassidy-and-the-sundance-kid/"
+        },
+        "rating": 5.0
+      }
+    },
+    "10273932248": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:11:58.586000Z",
+      "content": {
+        "action": "liked",
+        "description": "Keaton Merrell liked bek\u2019s  \u2605\u2605\u2605\u00bd  review of Train Dreams",
+        "movie": {
+          "title": "Train Dreams",
+          "slug": "train-dreams",
+          "url": "https://letterboxd.com/film/train-dreams/"
+        },
+        "rating": 3.5
+      }
+    },
+    "10273931539": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:11:49.729000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked tribxy\u2019s  \u2605\u2605\u2605\u2605\u2605  review of 2001: A Space Odyssey",
+        "movie": {
+          "title": "2001: A Space Odyssey",
+          "slug": "2001-a-space-odyssey",
+          "url": "https://letterboxd.com/film/2001-a-space-odyssey/"
+        },
+        "rating": 5.0
+      }
+    },
+    "10273930865": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:11:41.400000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked tribxy\u2019s  \u2605\u2605\u2605\u2605  review of Taxi Driver",
+        "movie": {
+          "title": "Taxi Driver",
+          "slug": "taxi-driver",
+          "url": "https://letterboxd.com/film/taxi-driver/"
+        },
+        "rating": 4.0
+      }
+    },
+    "10273929433": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:11:23.232000Z",
+      "content": {
+        "action": "added",
+        "description": "Jack_Meehan added The English Patient to his watchlist",
+        "movie": {
+          "title": "The English Patient",
+          "slug": "the-english-patient",
+          "url": "https://letterboxd.com/film/the-english-patient/"
+        }
+      }
+    },
+    "10273920768": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:09:35.287000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked \ud83c\udf9f\ufe0f\u2019s  \u2605\u2605\u2605\u00bd  review of American Psycho",
+        "movie": {
+          "title": "American Psycho",
+          "slug": "american-psycho",
+          "url": "https://letterboxd.com/film/american-psycho/"
+        },
+        "rating": 3.5
+      }
+    },
+    "10273916418": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:08:42.231000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked \ud83c\udf9f\ufe0f\u2019s  \u2605\u2605\u2605  review of Fargo",
+        "movie": {
+          "title": "Fargo",
+          "slug": "fargo",
+          "url": "https://letterboxd.com/film/fargo/"
+        },
+        "rating": 3.0
+      }
+    },
+    "10273914693": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:08:21.654000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked \ud83c\udf9f\ufe0f\u2019s  \u2605\u2605\u2605\u00bd  review of Midnight Cowboy",
+        "movie": {
+          "title": "Midnight Cowboy",
+          "slug": "midnight-cowboy",
+          "url": "https://letterboxd.com/film/midnight-cowboy/"
+        },
+        "rating": 3.5
+      }
+    },
+    "10273914361": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:08:17.710000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked \ud83c\udf9f\ufe0f\u2019s  \u2605\u2605\u2605\u2605\u2605  review of GoodFellas",
+        "movie": {
+          "title": "GoodFellas",
+          "slug": "goodfellas",
+          "url": "https://letterboxd.com/film/goodfellas/"
+        },
+        "rating": 5.0
+      }
+    },
+    "10273910662": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:07:33.504000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked \ud83c\udf9f\ufe0f\u2019s  \u2605\u2605\u2605  review of ...And Justice for All",
+        "movie": {
+          "title": "...And Justice for All",
+          "slug": "and-justice-for-all",
+          "url": "https://letterboxd.com/film/and-justice-for-all/"
+        },
+        "rating": 3.0
+      }
+    },
+    "10273908337": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T04:07:07.085000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked \ud83c\udf9f\ufe0f\u2019s  \u2605\u2605\u2605\u2605\u00bd  review of Dog Day Afternoon",
+        "movie": {
+          "title": "Dog Day Afternoon",
+          "slug": "dog-day-afternoon",
+          "url": "https://letterboxd.com/film/dog-day-afternoon/"
+        },
+        "rating": 4.5
+      }
+    },
+    "10273891524": {
+      "activity_type": "review",
+      "timestamp": "2025-11-26T04:03:47.040000Z",
+      "content": {
+        "action": "watched",
+        "description": "watched Eternal Sunshine of the Spotless Mind \u2605\u2605\u2605\u2605\u2605",
+        "movie": {
+          "title": "Eternal Sunshine of the Spotless Mind",
+          "year": 2004,
+          "slug": "eternal-sunshine-of-the-spotless-mind",
+          "url": "https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/"
+        },
+        "rating": 5.0,
+        "review": {
+          "content": "People! So imperfect. I had no idea this had any sci fi elements and I loved it. Jim Carrey and Kate Winslet were fantastic. I think I love a movie with some good old fashioned yearning.",
+          "contains_spoilers": false
+        }
+      }
+    },
+    "10273869187": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T03:59:10.829000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked vicky \ud83c\udfa7\u2019s  \u2605\u2605\u2605\u2605\u00bd  review of GoodFellas",
+        "movie": {
+          "title": "GoodFellas",
+          "slug": "goodfellas",
+          "url": "https://letterboxd.com/film/goodfellas/"
+        },
+        "rating": 4.5
+      }
+    },
+    "10273868247": {
+      "activity_type": "review",
+      "timestamp": "2025-11-26T03:58:58.517000Z",
+      "content": {
+        "action": "rewatched",
+        "description": "rewatched Wreck-It Ralph \u2605\u2605\u2605\u2605\u2605",
+        "movie": {
+          "title": "Wreck-It Ralph",
+          "year": 2012,
+          "slug": "wreck-it-ralph",
+          "url": "https://letterboxd.com/film/wreck-it-ralph/"
+        },
+        "rating": 5.0,
+        "review": {
+          "content": "I'm not a glitch Taffyta I've just got pixslexia\nI liked when Calhoun said so you like show tunes, that doesn't mean you're gay. It just means you're awful\nSWITCH ON THE SKY AND THE STARS GLOW FOR YOU GO SEE THE WORLD 'CAUSE IT'S ALL SO BRAND NEW DON'T CLOSE YOUR EYES 'CAUSE YOUR FUTURE'S READY TO SHINE IT'S JUST A MATTER OF TIME, BEFORE WE LEARN HOW TO FLY WELCOME TO THE RHYTHM OF THE NIGHT THERE'S SOMETHING IN THE AIR YOU CAN'T DENY IT'S BEEN FUN BUT NOW I'VE GOT TO GO LIFE IS WAY TOO SHORT TO TAKE IT SLOW BUT BEFORE I GO AND HIT THE ROAD I GOTTA KNOW, 'TIL THEN, WHEN CAN WE DO THIS AGAIN? OH OH OH OH WHEN CAN I SEE YOU AGAIN? OH OH OH OH WHEN CAN WE DO THIS AGAIN? OH OH OH OH I GOTTA KNOW, WHEN CAN I SEE YOU AGAIN?",
+          "contains_spoilers": false
+        }
+      }
+    },
+    "10273866574": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T03:58:38.226000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked vicky \ud83c\udfa7\u2019s  \u2605\u2605\u2605\u2605\u00bd  review of The Thing",
+        "movie": {
+          "title": "The Thing",
+          "slug": "the-thing",
+          "url": "https://letterboxd.com/film/the-thing/"
+        },
+        "rating": 4.5
+      }
+    },
+    "10273848654": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T03:55:06.826000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked vicky \ud83c\udfa7\u2019s  \u2605\u2605\u2605\u2605\u00bd  review of GoodFellas",
+        "movie": {
+          "title": "GoodFellas",
+          "slug": "1",
+          "url": "https://letterboxd.com/film/1/"
+        },
+        "rating": 4.5
+      }
+    },
+    "10273847650": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T03:54:54.739000Z",
+      "content": {
+        "action": "liked",
+        "description": "Mo\u271e\ufe0eher Vee liked Oskar.\u2019s  \u2605\u2605\u00bd  review of The Running Man",
+        "movie": {
+          "title": "The Running Man",
+          "slug": "the-running-man-2025",
+          "url": "https://letterboxd.com/film/the-running-man-2025/"
+        },
+        "rating": 2.5
+      }
+    },
+    "10273847291": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T03:54:50.307000Z",
+      "content": {
+        "action": "liked",
+        "description": "boxjellyfish liked vicky \ud83c\udfa7\u2019s  \u2605\u2605\u2605\u2605\u00bd  review of The Graduate",
+        "movie": {
+          "title": "The Graduate",
+          "slug": "1",
+          "url": "https://letterboxd.com/film/1/"
+        },
+        "rating": 4.5
+      }
+    },
+    "10273846674": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T03:54:43.357000Z",
+      "content": {
+        "action": "liked",
+        "description": "Mo\u271e\ufe0eher Vee liked dima\u2019s  \u2605\u2605\u2605  review of Bugonia",
+        "movie": {
+          "title": "Bugonia",
+          "slug": "bugonia",
+          "url": "https://letterboxd.com/film/bugonia/"
+        },
+        "rating": 3.0
+      }
+    },
+    "10273846162": {
+      "activity_type": "basic",
+      "timestamp": "2025-11-26T03:54:37.063000Z",
+      "content": {
+        "action": "liked",
+        "description": "Mo\u271e\ufe0eher Vee liked lea \u0f09\u2027\u208a\u02da\ud83e\udebd\ud83d\udd6f\ufe0f \u1a5a\u2019s  \u2605\u2605\u2605\u00bd  review of Calibre",
+        "movie": {
+          "title": "Calibre",
+          "slug": "1",
+          "url": "https://letterboxd.com/film/1/"
+        },
+        "rating": 3.5
+      }
+    }
+  }
+}

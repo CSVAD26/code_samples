@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Perlin Particle Field</title>
+    <style>
+      html, body { margin: 0; padding: 0; background: #111; color: #eee; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+      canvas { display: block; border: 1px solid #333; }
+      #panel { position: fixed; top: 12px; left: 12px; background: rgba(0,0,0,0.7); padding: 12px 14px; border-radius: 8px; width: 260px; backdrop-filter: blur(4px); }
+      #panel h1 { font-size: 14px; margin: 0 0 8px; font-weight: 600; letter-spacing: .5px; }
+      #panel .row { margin-bottom: 10px; }
+      #panel label { display: flex; justify-content: space-between; font-size: 11px; font-weight: 600; margin-bottom: 4px; }
+      #panel input[type=range] { width: 100%; }
+      #panel output { color: #4ea3ff; font-weight: 600; margin-left: 6px; }
+      #panel button { width: 100%; margin-top: 4px; background:#222; color:#eee; border:1px solid #444; padding:6px 8px; border-radius:5px; cursor:pointer; font-size:12px; }
+      #panel button:hover { background:#2e2e2e; }
+    </style>
+  </head>
+  <body>
+    <div id="panel">
+      <h1>Perlin Particle Field</h1>
+      <div class="row">
+        <label>Agents <output id="agentsCountOut">4000</output></label>
+        <input id="agentsCount" type="range" min="100" max="10000" step="100" value="4000" />
+      </div>
+      <div class="row">
+        <label>Noise Scale <output id="noiseScaleOut">100</output></label>
+        <input id="noiseScale" type="range" min="10" max="1000" step="10" value="100" />
+      </div>
+      <div class="row">
+        <label>Noise Strength <output id="noiseStrengthOut">10</output></label>
+        <input id="noiseStrength" type="range" min="0" max="100" step="1" value="10" />
+      </div>
+      <div class="row">
+        <label>Stroke Width <output id="strokeWidthOut">0.3</output></label>
+        <input id="strokeWidth" type="range" min="0" max="10" step="0.1" value="0.3" />
+      </div>
+      <div class="row">
+        <label>Z Range <output id="noiseZRangeOut">0.4</output></label>
+        <input id="noiseZRange" type="range" min="0" max="5" step="0.1" value="0.4" />
+      </div>
+      <div class="row">
+        <label>Agents Alpha <output id="agentsAlphaOut">90</output></label>
+        <input id="agentsAlpha" type="range" min="0" max="255" step="1" value="90" />
+      </div>
+      <div class="row">
+        <label>Overlay Alpha <output id="overlayAlphaOut">10</output></label>
+        <input id="overlayAlpha" type="range" min="0" max="50" step="1" value="10" />
+      </div>
+      <button id="resetBtn" title="Re-initialize all agents">Reset Agents</button>
+      <button id="clearBtn" title="Clear accumulated trails">Clear Trails</button>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
+    <script src="sketch.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1752 @@
+[
+  {
+    "startDate": "2023-10-16 14:08:33 -0700",
+    "endDate": "2023-10-16 14:57:32 -0700",
+    "duration_minutes": "48.99237631758054",
+    "totalDistance_meters": "11.8938",
+    "totalEnergyBurned_kcal": "420.099",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.0",
+    "device": "<<HKDevice: 0x8150a9e50>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.0, creation date:2023-09-01 22:32:59 +0000>"
+  },
+  {
+    "startDate": "2023-10-16 16:55:47 -0700",
+    "endDate": "2023-10-16 17:46:11 -0700",
+    "duration_minutes": "50.40321254928907",
+    "totalDistance_meters": "11.8145",
+    "totalEnergyBurned_kcal": "416.826",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.0",
+    "device": "<<HKDevice: 0x8150a9e50>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.0, creation date:2023-09-01 22:32:59 +0000>"
+  },
+  {
+    "startDate": "2023-10-18 08:42:33 -0700",
+    "endDate": "2023-10-18 09:28:51 -0700",
+    "duration_minutes": "46.29972703258196",
+    "totalDistance_meters": "11.8897",
+    "totalEnergyBurned_kcal": "250.862",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.0.2",
+    "device": "<<HKDevice: 0x8150a8d20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.0.2, creation date:2023-10-17 01:44:33 +0000>"
+  },
+  {
+    "startDate": "2023-10-18 18:11:39 -0700",
+    "endDate": "2023-10-18 18:57:10 -0700",
+    "duration_minutes": "45.52487846811612",
+    "totalDistance_meters": "11.501",
+    "totalEnergyBurned_kcal": "200.5",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.0.2",
+    "device": "<<HKDevice: 0x8150a8d20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.0.2, creation date:2023-10-17 01:44:33 +0000>"
+  },
+  {
+    "startDate": "2023-10-21 08:39:27 -0700",
+    "endDate": "2023-10-21 08:46:57 -0700",
+    "duration_minutes": "7.501311151186625",
+    "totalDistance_meters": "1.76709",
+    "totalEnergyBurned_kcal": "42.2763",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.0.2",
+    "device": "<<HKDevice: 0x8150a8d20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.0.2, creation date:2023-10-17 01:44:33 +0000>"
+  },
+  {
+    "startDate": "2023-10-21 09:35:33 -0700",
+    "endDate": "2023-10-21 09:47:02 -0700",
+    "duration_minutes": "11.47531121770541",
+    "totalDistance_meters": "1.95806",
+    "totalEnergyBurned_kcal": "52.6588",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.0.2",
+    "device": "<<HKDevice: 0x8150a8d20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.0.2, creation date:2023-10-17 01:44:33 +0000>"
+  },
+  {
+    "startDate": "2023-10-23 09:52:26 -0700",
+    "endDate": "2023-10-23 10:39:23 -0700",
+    "duration_minutes": "46.95281556646029",
+    "totalDistance_meters": "11.2572",
+    "totalEnergyBurned_kcal": "216.403",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.0.2",
+    "device": "<<HKDevice: 0x8150a8d20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.0.2, creation date:2023-10-17 01:44:33 +0000>"
+  },
+  {
+    "startDate": "2023-10-25 09:14:25 -0700",
+    "endDate": "2023-10-25 10:02:27 -0700",
+    "duration_minutes": "48.03884538213412",
+    "totalDistance_meters": "11.8935",
+    "totalEnergyBurned_kcal": "212.395",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.0.2",
+    "device": "<<HKDevice: 0x8150a8d20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.0.2, creation date:2023-10-17 01:44:33 +0000>"
+  },
+  {
+    "startDate": "2023-10-25 18:32:41 -0700",
+    "endDate": "2023-10-25 19:27:44 -0700",
+    "duration_minutes": "55.04932845036189",
+    "totalDistance_meters": "11.8666",
+    "totalEnergyBurned_kcal": "195.272",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.0.2",
+    "device": "<<HKDevice: 0x8150a8d20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.0.2, creation date:2023-10-17 01:44:33 +0000>"
+  },
+  {
+    "startDate": "2023-11-06 10:18:17 -0700",
+    "endDate": "2023-11-06 11:01:56 -0700",
+    "duration_minutes": "43.6591849009196",
+    "totalDistance_meters": "11.6324",
+    "totalEnergyBurned_kcal": "195.738",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1",
+    "device": "<<HKDevice: 0x8150aab20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1, creation date:2023-10-28 04:44:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-08 09:58:25 -0700",
+    "endDate": "2023-11-08 10:47:15 -0700",
+    "duration_minutes": "48.82370081543922",
+    "totalDistance_meters": "11.8991",
+    "totalEnergyBurned_kcal": "192.095",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-08 18:51:37 -0700",
+    "endDate": "2023-11-08 19:24:15 -0700",
+    "duration_minutes": "32.63675906459491",
+    "totalDistance_meters": "6.2536",
+    "totalEnergyBurned_kcal": "155.273",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-11 10:09:01 -0700",
+    "endDate": "2023-11-11 10:36:22 -0700",
+    "duration_minutes": "27.3466988325119",
+    "totalDistance_meters": "2.04297",
+    "totalEnergyBurned_kcal": "40.3925",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-11 11:20:47 -0700",
+    "endDate": "2023-11-11 11:30:39 -0700",
+    "duration_minutes": "9.880170333385468",
+    "totalDistance_meters": "1.84045",
+    "totalEnergyBurned_kcal": "37.195",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-15 10:11:21 -0700",
+    "endDate": "2023-11-15 10:59:40 -0700",
+    "duration_minutes": "48.30296335021655",
+    "totalDistance_meters": "11.8766",
+    "totalEnergyBurned_kcal": "181.597",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-15 17:33:21 -0700",
+    "endDate": "2023-11-15 18:30:14 -0700",
+    "duration_minutes": "56.87521860003471",
+    "totalDistance_meters": "11.8842",
+    "totalEnergyBurned_kcal": "245.017",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-17 10:58:58 -0700",
+    "endDate": "2023-11-17 11:46:32 -0700",
+    "duration_minutes": "47.55556298295657",
+    "totalDistance_meters": "11.8699",
+    "totalEnergyBurned_kcal": "185.205",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-25 10:25:57 -0700",
+    "endDate": "2023-11-25 10:42:48 -0700",
+    "duration_minutes": "16.86307841738065",
+    "totalDistance_meters": "1.92889",
+    "totalEnergyBurned_kcal": "46.8896",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-27 10:21:47 -0700",
+    "endDate": "2023-11-27 11:17:51 -0700",
+    "duration_minutes": "56.06506191690763",
+    "totalDistance_meters": "13.0637",
+    "totalEnergyBurned_kcal": "252.437",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-27 13:49:54 -0700",
+    "endDate": "2023-11-27 14:02:47 -0700",
+    "duration_minutes": "12.87645408511162",
+    "totalDistance_meters": "1.95909",
+    "totalEnergyBurned_kcal": "74.8633",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-11-27 18:37:49 -0700",
+    "endDate": "2023-11-27 19:19:13 -0700",
+    "duration_minutes": "41.39042939742406",
+    "totalDistance_meters": "10.008",
+    "totalEnergyBurned_kcal": "242.355",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2023-12-05 13:42:24 -0700",
+    "endDate": "2023-12-05 13:51:37 -0700",
+    "duration_minutes": "9.218964989980062",
+    "totalDistance_meters": "2.38801",
+    "totalEnergyBurned_kcal": "66.0582",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2024-01-27 09:26:10 -0700",
+    "endDate": "2024-01-27 09:35:19 -0700",
+    "duration_minutes": "9.164845053354899",
+    "totalDistance_meters": "1.68477",
+    "totalEnergyBurned_kcal": "41.835",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2024-01-27 09:55:16 -0700",
+    "endDate": "2024-01-27 10:07:52 -0700",
+    "duration_minutes": "12.58107035557429",
+    "totalDistance_meters": "1.68298",
+    "totalEnergyBurned_kcal": "46.0372",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.1.1",
+    "device": "<<HKDevice: 0x813585270>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.1.1, creation date:2023-11-08 16:18:24 +0000>"
+  },
+  {
+    "startDate": "2024-02-03 10:26:10 -0700",
+    "endDate": "2024-02-03 10:38:21 -0700",
+    "duration_minutes": "12.19033706784248",
+    "totalDistance_meters": "1.7634",
+    "totalEnergyBurned_kcal": "39.4592",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.3",
+    "device": "<<HKDevice: 0x816f9ada0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.3, creation date:2024-01-27 20:40:52 +0000>"
+  },
+  {
+    "startDate": "2024-02-03 10:58:53 -0700",
+    "endDate": "2024-02-03 11:08:06 -0700",
+    "duration_minutes": "9.202398876349131",
+    "totalDistance_meters": "1.65455",
+    "totalEnergyBurned_kcal": "35.4885",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.3",
+    "device": "<<HKDevice: 0x816f9ada0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.3, creation date:2024-01-27 20:40:52 +0000>"
+  },
+  {
+    "startDate": "2024-02-10 09:19:20 -0700",
+    "endDate": "2024-02-10 09:39:13 -0700",
+    "duration_minutes": "19.87482084830602",
+    "totalDistance_meters": "1.9488",
+    "totalEnergyBurned_kcal": "43.7907",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.3",
+    "device": "<<HKDevice: 0x816f9ada0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.3, creation date:2024-01-27 20:40:52 +0000>"
+  },
+  {
+    "startDate": "2024-02-17 09:25:42 -0700",
+    "endDate": "2024-02-17 09:39:07 -0700",
+    "duration_minutes": "13.41630968650182",
+    "totalDistance_meters": "1.8121",
+    "totalEnergyBurned_kcal": "41.6545",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.3",
+    "device": "<<HKDevice: 0x816f9ada0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.3, creation date:2024-01-27 20:40:52 +0000>"
+  },
+  {
+    "startDate": "2024-02-17 10:28:44 -0700",
+    "endDate": "2024-02-17 10:45:02 -0700",
+    "duration_minutes": "16.29761978387832",
+    "totalDistance_meters": "1.88166",
+    "totalEnergyBurned_kcal": "43.3925",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.3",
+    "device": "<<HKDevice: 0x816f9ada0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.3, creation date:2024-01-27 20:40:52 +0000>"
+  },
+  {
+    "startDate": "2024-02-24 09:30:25 -0700",
+    "endDate": "2024-02-24 09:40:20 -0700",
+    "duration_minutes": "9.920798232158026",
+    "totalDistance_meters": "1.6973",
+    "totalEnergyBurned_kcal": "40.7802",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "10.3",
+    "device": "<<HKDevice: 0x81700ce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:10.3, creation date:2024-01-27 20:40:52 +0000>"
+  },
+  {
+    "startDate": "2025-01-06 10:21:29 -0700",
+    "endDate": "2025-01-06 10:43:28 -0700",
+    "duration_minutes": "21.98262703418732",
+    "totalDistance_meters": "2.73705",
+    "totalEnergyBurned_kcal": "112.352",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-06 16:47:09 -0700",
+    "endDate": "2025-01-06 17:11:38 -0700",
+    "duration_minutes": "24.48580273389816",
+    "totalDistance_meters": "3.14537",
+    "totalEnergyBurned_kcal": "93.7137",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-08 10:10:24 -0700",
+    "endDate": "2025-01-08 10:28:38 -0700",
+    "duration_minutes": "18.23782051404317",
+    "totalDistance_meters": "3.01911",
+    "totalEnergyBurned_kcal": "102.786",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-08 16:56:56 -0700",
+    "endDate": "2025-01-08 17:18:50 -0700",
+    "duration_minutes": "21.90745831330617",
+    "totalDistance_meters": "3.10564",
+    "totalEnergyBurned_kcal": "85.728",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-13 10:23:10 -0700",
+    "endDate": "2025-01-13 10:41:42 -0700",
+    "duration_minutes": "18.5234734137853",
+    "totalDistance_meters": "3.00288",
+    "totalEnergyBurned_kcal": "89.333",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-13 16:54:04 -0700",
+    "endDate": "2025-01-13 17:12:05 -0700",
+    "duration_minutes": "18.01299670338631",
+    "totalDistance_meters": "3.02173",
+    "totalEnergyBurned_kcal": "75.433",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-15 09:50:23 -0700",
+    "endDate": "2025-01-15 10:09:24 -0700",
+    "duration_minutes": "19.02491533358892",
+    "totalDistance_meters": "3.10423",
+    "totalEnergyBurned_kcal": "95.106",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-15 16:54:47 -0700",
+    "endDate": "2025-01-15 17:14:51 -0700",
+    "duration_minutes": "20.07367406487465",
+    "totalDistance_meters": "3.13173",
+    "totalEnergyBurned_kcal": "79.1637",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-22 09:46:33 -0700",
+    "endDate": "2025-01-22 10:03:26 -0700",
+    "duration_minutes": "16.8840803583463",
+    "totalDistance_meters": "2.99616",
+    "totalEnergyBurned_kcal": "93.5315",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-22 12:50:45 -0700",
+    "endDate": "2025-01-22 13:10:00 -0700",
+    "duration_minutes": "19.25349324345589",
+    "totalDistance_meters": "3.12673",
+    "totalEnergyBurned_kcal": "81.975",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-27 10:23:30 -0700",
+    "endDate": "2025-01-27 10:42:13 -0700",
+    "duration_minutes": "18.71006818215052",
+    "totalDistance_meters": "3.07267",
+    "totalEnergyBurned_kcal": "85.757",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-27 16:58:01 -0700",
+    "endDate": "2025-01-27 17:22:19 -0700",
+    "duration_minutes": "24.29990461667379",
+    "totalDistance_meters": "3.14959",
+    "totalEnergyBurned_kcal": "88.0448",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-29 10:14:18 -0700",
+    "endDate": "2025-01-29 10:32:21 -0700",
+    "duration_minutes": "18.05453680555026",
+    "totalDistance_meters": "3.00226",
+    "totalEnergyBurned_kcal": "88.3385",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-01-29 13:00:42 -0700",
+    "endDate": "2025-01-29 13:24:53 -0700",
+    "duration_minutes": "24.19407826860746",
+    "totalDistance_meters": "4.13724",
+    "totalEnergyBurned_kcal": "93.3055",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-05 09:52:21 -0700",
+    "endDate": "2025-02-05 10:10:52 -0700",
+    "duration_minutes": "18.53150967558225",
+    "totalDistance_meters": "3.00171",
+    "totalEnergyBurned_kcal": "92.2165",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-05 15:01:26 -0700",
+    "endDate": "2025-02-05 15:21:29 -0700",
+    "duration_minutes": "20.05076224207878",
+    "totalDistance_meters": "3.04635",
+    "totalEnergyBurned_kcal": "73.06",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-07 12:44:48 -0700",
+    "endDate": "2025-02-07 13:08:21 -0700",
+    "duration_minutes": "23.55864469408989",
+    "totalDistance_meters": "4.31579",
+    "totalEnergyBurned_kcal": "136.445",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-07 14:13:30 -0700",
+    "endDate": "2025-02-07 14:33:58 -0700",
+    "duration_minutes": "20.46362559994062",
+    "totalDistance_meters": "2.91261",
+    "totalEnergyBurned_kcal": "70.0805",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-10 10:39:03 -0700",
+    "endDate": "2025-02-10 10:57:46 -0700",
+    "duration_minutes": "18.71382007996241",
+    "totalDistance_meters": "2.96479",
+    "totalEnergyBurned_kcal": "84.7782",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-10 17:01:05 -0700",
+    "endDate": "2025-02-10 17:25:48 -0700",
+    "duration_minutes": "24.7312059978644",
+    "totalDistance_meters": "3.12875",
+    "totalEnergyBurned_kcal": "90.8493",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-12 10:15:14 -0700",
+    "endDate": "2025-02-12 10:34:31 -0700",
+    "duration_minutes": "19.28856186072032",
+    "totalDistance_meters": "2.95118",
+    "totalEnergyBurned_kcal": "80.8133",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-12 16:53:20 -0700",
+    "endDate": "2025-02-12 17:11:01 -0700",
+    "duration_minutes": "17.67927343845367",
+    "totalDistance_meters": "3.04558",
+    "totalEnergyBurned_kcal": "75.8119",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-19 09:50:56 -0700",
+    "endDate": "2025-02-19 10:11:21 -0700",
+    "duration_minutes": "20.42757890423139",
+    "totalDistance_meters": "2.95373",
+    "totalEnergyBurned_kcal": "105.521",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-19 16:29:44 -0700",
+    "endDate": "2025-02-19 16:47:43 -0700",
+    "duration_minutes": "17.98031005660693",
+    "totalDistance_meters": "3.05438",
+    "totalEnergyBurned_kcal": "74.9331",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.2",
+    "device": "<<HKDevice: 0x8171d8640>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.2, creation date:2024-12-28 21:33:02 +0000>"
+  },
+  {
+    "startDate": "2025-02-24 10:24:19 -0700",
+    "endDate": "2025-02-24 10:44:17 -0700",
+    "duration_minutes": "19.96733888785044",
+    "totalDistance_meters": "2.9877",
+    "totalEnergyBurned_kcal": "85.261",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x817249590>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-02-24 16:47:31 -0700",
+    "endDate": "2025-02-24 17:08:13 -0700",
+    "duration_minutes": "20.69566824237506",
+    "totalDistance_meters": "3.12435",
+    "totalEnergyBurned_kcal": "78.0791",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x817249590>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-02-26 09:56:08 -0700",
+    "endDate": "2025-02-26 10:12:29 -0700",
+    "duration_minutes": "16.3522346774737",
+    "totalDistance_meters": "2.95433",
+    "totalEnergyBurned_kcal": "91.5835",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x817249590>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-02-26 16:26:24 -0700",
+    "endDate": "2025-02-26 16:47:34 -0700",
+    "duration_minutes": "21.16716755628586",
+    "totalDistance_meters": "3.05644",
+    "totalEnergyBurned_kcal": "87.394",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x817249590>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-03-03 10:23:59 -0700",
+    "endDate": "2025-03-03 10:42:53 -0700",
+    "duration_minutes": "18.88557442824046",
+    "totalDistance_meters": "2.95605",
+    "totalEnergyBurned_kcal": "99.272",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x817249590>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-03-03 16:57:24 -0700",
+    "endDate": "2025-03-03 17:21:33 -0700",
+    "duration_minutes": "24.14356801311175",
+    "totalDistance_meters": "3.03092",
+    "totalEnergyBurned_kcal": "82.449",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x817249590>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-03-12 09:33:52 -0700",
+    "endDate": "2025-03-12 09:53:14 -0700",
+    "duration_minutes": "19.36421189109484",
+    "totalDistance_meters": "2.94677",
+    "totalEnergyBurned_kcal": "79.5945",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-03-19 08:46:03 -0700",
+    "endDate": "2025-03-19 09:02:40 -0700",
+    "duration_minutes": "16.62032557328542",
+    "totalDistance_meters": "2.94192",
+    "totalEnergyBurned_kcal": "93.2344",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-03-19 12:19:12 -0700",
+    "endDate": "2025-03-19 12:37:57 -0700",
+    "duration_minutes": "18.73970668713252",
+    "totalDistance_meters": "3.05601",
+    "totalEnergyBurned_kcal": "77.7213",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-03-31 09:34:36 -0700",
+    "endDate": "2025-03-31 09:51:49 -0700",
+    "duration_minutes": "17.22119880716006",
+    "totalDistance_meters": "2.89004",
+    "totalEnergyBurned_kcal": "83.4415",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-03-31 16:16:27 -0700",
+    "endDate": "2025-03-31 16:34:22 -0700",
+    "duration_minutes": "17.92612596948942",
+    "totalDistance_meters": "3.01066",
+    "totalEnergyBurned_kcal": "77.7505",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-02 12:40:17 -0700",
+    "endDate": "2025-04-02 12:55:52 -0700",
+    "duration_minutes": "15.58569970528285",
+    "totalDistance_meters": "2.96241",
+    "totalEnergyBurned_kcal": "89.0673",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-02 16:12:00 -0700",
+    "endDate": "2025-04-02 16:33:44 -0700",
+    "duration_minutes": "21.72603306372961",
+    "totalDistance_meters": "3.0401",
+    "totalEnergyBurned_kcal": "77.5635",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-07 16:08:18 -0700",
+    "endDate": "2025-04-07 16:28:29 -0700",
+    "duration_minutes": "20.17386699517568",
+    "totalDistance_meters": "3.06419",
+    "totalEnergyBurned_kcal": "77.2482",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-10 09:53:21 -0700",
+    "endDate": "2025-04-10 10:10:54 -0700",
+    "duration_minutes": "17.5629766245683",
+    "totalDistance_meters": "2.95631",
+    "totalEnergyBurned_kcal": "82.4645",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-10 16:10:29 -0700",
+    "endDate": "2025-04-10 16:31:13 -0700",
+    "duration_minutes": "20.73090221683184",
+    "totalDistance_meters": "3.00951",
+    "totalEnergyBurned_kcal": "90.0993",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-14 09:47:35 -0700",
+    "endDate": "2025-04-14 10:06:08 -0700",
+    "duration_minutes": "18.54836230079333",
+    "totalDistance_meters": "2.93076",
+    "totalEnergyBurned_kcal": "90.304",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-14 16:19:26 -0700",
+    "endDate": "2025-04-14 16:40:23 -0700",
+    "duration_minutes": "20.94711782932281",
+    "totalDistance_meters": "3.13763",
+    "totalEnergyBurned_kcal": "74.9678",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-16 09:43:32 -0700",
+    "endDate": "2025-04-16 10:00:53 -0700",
+    "duration_minutes": "17.34522165854772",
+    "totalDistance_meters": "2.83221",
+    "totalEnergyBurned_kcal": "81.868",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-16 16:16:26 -0700",
+    "endDate": "2025-04-16 16:40:06 -0700",
+    "duration_minutes": "23.67176106770833",
+    "totalDistance_meters": "3.1054",
+    "totalEnergyBurned_kcal": "80.343",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-17 12:49:37 -0700",
+    "endDate": "2025-04-17 13:05:55 -0700",
+    "duration_minutes": "16.28610945542653",
+    "totalDistance_meters": "2.93209",
+    "totalEnergyBurned_kcal": "85.7675",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-17 15:28:07 -0700",
+    "endDate": "2025-04-17 15:46:45 -0700",
+    "duration_minutes": "18.6219580411911",
+    "totalDistance_meters": "2.99042",
+    "totalEnergyBurned_kcal": "75.0507",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-21 09:39:12 -0700",
+    "endDate": "2025-04-21 09:56:55 -0700",
+    "duration_minutes": "17.72194043199221",
+    "totalDistance_meters": "2.9512",
+    "totalEnergyBurned_kcal": "85.7785",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-21 16:24:31 -0700",
+    "endDate": "2025-04-21 16:50:21 -0700",
+    "duration_minutes": "25.83343114654223",
+    "totalDistance_meters": "3.05852",
+    "totalEnergyBurned_kcal": "99.672",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-23 09:59:00 -0700",
+    "endDate": "2025-04-23 10:15:24 -0700",
+    "duration_minutes": "16.39251994490623",
+    "totalDistance_meters": "2.96231",
+    "totalEnergyBurned_kcal": "88.0717",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-23 16:13:26 -0700",
+    "endDate": "2025-04-23 16:38:52 -0700",
+    "duration_minutes": "25.42495645483335",
+    "totalDistance_meters": "3.03341",
+    "totalEnergyBurned_kcal": "82.0325",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-24 09:37:14 -0700",
+    "endDate": "2025-04-24 09:53:11 -0700",
+    "duration_minutes": "15.94742116530736",
+    "totalDistance_meters": "2.92352",
+    "totalEnergyBurned_kcal": "93.6118",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-24 16:15:51 -0700",
+    "endDate": "2025-04-24 16:34:26 -0700",
+    "duration_minutes": "18.58255394895872",
+    "totalDistance_meters": "3.04851",
+    "totalEnergyBurned_kcal": "73.1337",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-28 09:36:35 -0700",
+    "endDate": "2025-04-28 09:53:57 -0700",
+    "duration_minutes": "17.35427931745847",
+    "totalDistance_meters": "2.96855",
+    "totalEnergyBurned_kcal": "85.169",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-04-28 16:18:31 -0700",
+    "endDate": "2025-04-28 16:39:24 -0700",
+    "duration_minutes": "20.87191156744957",
+    "totalDistance_meters": "3.02648",
+    "totalEnergyBurned_kcal": "89.8098",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.3.1",
+    "device": "<<HKDevice: 0x81724af80>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.3.1, creation date:2025-02-21 00:32:59 +0000>"
+  },
+  {
+    "startDate": "2025-05-01 10:22:59 -0700",
+    "endDate": "2025-05-01 10:39:50 -0700",
+    "duration_minutes": "16.85036181211472",
+    "totalDistance_meters": "2.9683",
+    "totalEnergyBurned_kcal": "87.4853",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-01 15:05:26 -0700",
+    "endDate": "2025-05-01 15:14:32 -0700",
+    "duration_minutes": "9.106087493896485",
+    "totalDistance_meters": "1.31666",
+    "totalEnergyBurned_kcal": "30.8297",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-07 09:49:07 -0700",
+    "endDate": "2025-05-07 10:06:15 -0700",
+    "duration_minutes": "17.14218895435333",
+    "totalDistance_meters": "2.92514",
+    "totalEnergyBurned_kcal": "88.0208",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-07 16:27:21 -0700",
+    "endDate": "2025-05-07 16:50:35 -0700",
+    "duration_minutes": "23.23380707105001",
+    "totalDistance_meters": "3.02585",
+    "totalEnergyBurned_kcal": "75.876",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-12 09:44:41 -0700",
+    "endDate": "2025-05-12 10:02:16 -0700",
+    "duration_minutes": "17.58142948150635",
+    "totalDistance_meters": "2.90935",
+    "totalEnergyBurned_kcal": "86.4995",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-12 16:24:35 -0700",
+    "endDate": "2025-05-12 16:45:43 -0700",
+    "duration_minutes": "21.13696519732475",
+    "totalDistance_meters": "3.06075",
+    "totalEnergyBurned_kcal": "87.9855",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-14 09:51:55 -0700",
+    "endDate": "2025-05-14 10:08:17 -0700",
+    "duration_minutes": "16.36163690090179",
+    "totalDistance_meters": "2.95014",
+    "totalEnergyBurned_kcal": "92.7363",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-14 16:18:28 -0700",
+    "endDate": "2025-05-14 16:36:02 -0700",
+    "duration_minutes": "17.55986676414808",
+    "totalDistance_meters": "3.00904",
+    "totalEnergyBurned_kcal": "71.9763",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-15 09:12:01 -0700",
+    "endDate": "2025-05-15 09:29:12 -0700",
+    "duration_minutes": "17.18953729073207",
+    "totalDistance_meters": "2.92877",
+    "totalEnergyBurned_kcal": "94.8375",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-15 16:26:05 -0700",
+    "endDate": "2025-05-15 16:50:55 -0700",
+    "duration_minutes": "24.83198397159576",
+    "totalDistance_meters": "3.10494",
+    "totalEnergyBurned_kcal": "94.1375",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-19 09:44:42 -0700",
+    "endDate": "2025-05-19 10:01:45 -0700",
+    "duration_minutes": "17.05740649104118",
+    "totalDistance_meters": "2.93293",
+    "totalEnergyBurned_kcal": "86.285",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-19 16:20:59 -0700",
+    "endDate": "2025-05-19 16:47:16 -0700",
+    "duration_minutes": "19.73129065831502",
+    "totalDistance_meters": "3.36703",
+    "totalEnergyBurned_kcal": "88.6255",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-28 09:47:29 -0700",
+    "endDate": "2025-05-28 10:03:50 -0700",
+    "duration_minutes": "16.33869023521741",
+    "totalDistance_meters": "2.92336",
+    "totalEnergyBurned_kcal": "91.7434",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-28 16:11:42 -0700",
+    "endDate": "2025-05-28 16:28:20 -0700",
+    "duration_minutes": "16.63449907104174",
+    "totalDistance_meters": "3.01906",
+    "totalEnergyBurned_kcal": "78.8445",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-29 09:47:40 -0700",
+    "endDate": "2025-05-29 10:02:46 -0700",
+    "duration_minutes": "15.1057642797629",
+    "totalDistance_meters": "2.95805",
+    "totalEnergyBurned_kcal": "93.6645",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-05-29 16:17:53 -0700",
+    "endDate": "2025-05-29 16:35:08 -0700",
+    "duration_minutes": "17.23999691009521",
+    "totalDistance_meters": "3.10138",
+    "totalEnergyBurned_kcal": "79.2687",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-06-02 13:07:45 -0700",
+    "endDate": "2025-06-02 13:25:36 -0700",
+    "duration_minutes": "17.84967123468717",
+    "totalDistance_meters": "2.96583",
+    "totalEnergyBurned_kcal": "90.3523",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-06-02 16:12:59 -0700",
+    "endDate": "2025-06-02 16:35:54 -0700",
+    "duration_minutes": "22.92341331839561",
+    "totalDistance_meters": "3.05203",
+    "totalEnergyBurned_kcal": "80.0297",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-06-09 09:35:08 -0700",
+    "endDate": "2025-06-09 09:52:16 -0700",
+    "duration_minutes": "17.12876882751783",
+    "totalDistance_meters": "2.93995",
+    "totalEnergyBurned_kcal": "89.474",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-06-09 12:22:12 -0700",
+    "endDate": "2025-06-09 12:40:23 -0700",
+    "duration_minutes": "18.17096179922422",
+    "totalDistance_meters": "3.02209",
+    "totalEnergyBurned_kcal": "68.0543",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-06-12 18:02:43 -0700",
+    "endDate": "2025-06-12 18:18:38 -0700",
+    "duration_minutes": "15.91839972933133",
+    "totalDistance_meters": "3.018",
+    "totalEnergyBurned_kcal": "76.2532",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-06-19 15:56:02 -0700",
+    "endDate": "2025-06-19 16:12:37 -0700",
+    "duration_minutes": "16.58396311004957",
+    "totalDistance_meters": "2.93746",
+    "totalEnergyBurned_kcal": "65.9767",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.4",
+    "device": "<<HKDevice: 0x8172f4500>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.4, creation date:2025-05-01 06:12:08 +0000>"
+  },
+  {
+    "startDate": "2025-06-24 09:39:05 -0700",
+    "endDate": "2025-06-24 09:56:04 -0700",
+    "duration_minutes": "16.98036023577054",
+    "totalDistance_meters": "2.93353",
+    "totalEnergyBurned_kcal": "88.4345",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-06-26 09:45:03 -0700",
+    "endDate": "2025-06-26 10:02:00 -0700",
+    "duration_minutes": "16.94384833971659",
+    "totalDistance_meters": "2.97309",
+    "totalEnergyBurned_kcal": "90.1642",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-06-26 14:08:52 -0700",
+    "endDate": "2025-06-26 14:33:44 -0700",
+    "duration_minutes": "24.85680170853933",
+    "totalDistance_meters": "3.09484",
+    "totalEnergyBurned_kcal": "99.4949",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-06-30 09:43:18 -0700",
+    "endDate": "2025-06-30 09:58:23 -0700",
+    "duration_minutes": "15.08736862540245",
+    "totalDistance_meters": "2.90173",
+    "totalEnergyBurned_kcal": "90.2421",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-06-30 14:37:01 -0700",
+    "endDate": "2025-06-30 14:54:20 -0700",
+    "duration_minutes": "17.30716366569201",
+    "totalDistance_meters": "3.00174",
+    "totalEnergyBurned_kcal": "75.1513",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-07-01 09:46:08 -0700",
+    "endDate": "2025-07-01 10:00:52 -0700",
+    "duration_minutes": "14.73248883287112",
+    "totalDistance_meters": "3.02614",
+    "totalEnergyBurned_kcal": "105.623",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-07-03 10:21:41 -0700",
+    "endDate": "2025-07-03 10:38:51 -0700",
+    "duration_minutes": "17.16473506291707",
+    "totalDistance_meters": "2.97534",
+    "totalEnergyBurned_kcal": "87.0781",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-07-03 16:23:20 -0700",
+    "endDate": "2025-07-03 16:43:40 -0700",
+    "duration_minutes": "20.33192381858826",
+    "totalDistance_meters": "3.03566",
+    "totalEnergyBurned_kcal": "86.7281",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-07-09 16:31:27 -0700",
+    "endDate": "2025-07-09 16:49:35 -0700",
+    "duration_minutes": "18.13027212619782",
+    "totalDistance_meters": "3.0972",
+    "totalEnergyBurned_kcal": "89.1694",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-07-10 09:35:42 -0700",
+    "endDate": "2025-07-10 09:53:51 -0700",
+    "duration_minutes": "18.15521810054779",
+    "totalDistance_meters": "3.07157",
+    "totalEnergyBurned_kcal": "87.472",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-07-10 16:24:09 -0700",
+    "endDate": "2025-07-10 16:48:48 -0700",
+    "duration_minutes": "24.65047417283058",
+    "totalDistance_meters": "3.11232",
+    "totalEnergyBurned_kcal": "84.817",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173493b0>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-08-25 09:32:14 -0700",
+    "endDate": "2025-08-25 09:48:41 -0700",
+    "duration_minutes": "16.45621079007784",
+    "totalDistance_meters": "2.94798",
+    "totalEnergyBurned_kcal": "83.8657",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-08-25 12:08:08 -0700",
+    "endDate": "2025-08-25 12:28:59 -0700",
+    "duration_minutes": "20.85429593324661",
+    "totalDistance_meters": "3.0399",
+    "totalEnergyBurned_kcal": "85.1439",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-08-28 09:35:09 -0700",
+    "endDate": "2025-08-28 09:52:29 -0700",
+    "duration_minutes": "17.34324789444605",
+    "totalDistance_meters": "2.96406",
+    "totalEnergyBurned_kcal": "82.5743",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-08-28 15:41:19 -0700",
+    "endDate": "2025-08-28 15:59:26 -0700",
+    "duration_minutes": "18.11811737219493",
+    "totalDistance_meters": "2.99899",
+    "totalEnergyBurned_kcal": "73.1832",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-08-29 09:50:04 -0700",
+    "endDate": "2025-08-29 10:06:47 -0700",
+    "duration_minutes": "16.7301087419192",
+    "totalDistance_meters": "2.9069",
+    "totalEnergyBurned_kcal": "94.5823",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-08-29 17:20:13 -0700",
+    "endDate": "2025-08-29 17:40:47 -0700",
+    "duration_minutes": "20.56810275912285",
+    "totalDistance_meters": "3.07468",
+    "totalEnergyBurned_kcal": "76.35",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-01 09:24:08 -0700",
+    "endDate": "2025-09-01 09:41:41 -0700",
+    "duration_minutes": "17.56089393893878",
+    "totalDistance_meters": "2.94532",
+    "totalEnergyBurned_kcal": "82.8902",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-01 15:56:40 -0700",
+    "endDate": "2025-09-01 16:17:47 -0700",
+    "duration_minutes": "21.11069092551867",
+    "totalDistance_meters": "3.0278",
+    "totalEnergyBurned_kcal": "67.6661",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-03 09:36:01 -0700",
+    "endDate": "2025-09-03 09:54:29 -0700",
+    "duration_minutes": "18.48000640074412",
+    "totalDistance_meters": "2.94199",
+    "totalEnergyBurned_kcal": "79.0211",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-04 10:06:08 -0700",
+    "endDate": "2025-09-04 10:23:38 -0700",
+    "duration_minutes": "17.51096121470134",
+    "totalDistance_meters": "2.95778",
+    "totalEnergyBurned_kcal": "83.1505",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-05 08:43:45 -0700",
+    "endDate": "2025-09-05 08:59:13 -0700",
+    "duration_minutes": "15.46640292803446",
+    "totalDistance_meters": "3.00535",
+    "totalEnergyBurned_kcal": "92.0977",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-05 17:02:36 -0700",
+    "endDate": "2025-09-05 17:24:38 -0700",
+    "duration_minutes": "22.02202358444532",
+    "totalDistance_meters": "3.01622",
+    "totalEnergyBurned_kcal": "86.7115",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-08 10:46:38 -0700",
+    "endDate": "2025-09-08 11:03:39 -0700",
+    "duration_minutes": "17.01385024587313",
+    "totalDistance_meters": "2.93134",
+    "totalEnergyBurned_kcal": "87.132",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-08 16:21:45 -0700",
+    "endDate": "2025-09-08 16:43:43 -0700",
+    "duration_minutes": "21.96011900107066",
+    "totalDistance_meters": "3.12314",
+    "totalEnergyBurned_kcal": "78.2963",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-10 09:20:26 -0700",
+    "endDate": "2025-09-10 09:38:44 -0700",
+    "duration_minutes": "18.2968263109525",
+    "totalDistance_meters": "2.9586",
+    "totalEnergyBurned_kcal": "81.1844",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-10 16:39:10 -0700",
+    "endDate": "2025-09-10 17:01:47 -0700",
+    "duration_minutes": "22.60918095707893",
+    "totalDistance_meters": "3.07999",
+    "totalEnergyBurned_kcal": "80.077",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-11 09:24:02 -0700",
+    "endDate": "2025-09-11 09:44:21 -0700",
+    "duration_minutes": "20.31906595230102",
+    "totalDistance_meters": "2.9681",
+    "totalEnergyBurned_kcal": "85.3765",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-11 16:10:38 -0700",
+    "endDate": "2025-09-11 16:32:02 -0700",
+    "duration_minutes": "21.39335678418477",
+    "totalDistance_meters": "3.00961",
+    "totalEnergyBurned_kcal": "79.719",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.5",
+    "device": "<<HKDevice: 0x8173bce10>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.5, creation date:2025-06-22 04:51:42 +0000>"
+  },
+  {
+    "startDate": "2025-09-15 09:37:01 -0700",
+    "endDate": "2025-09-15 09:54:43 -0700",
+    "duration_minutes": "17.70577625632286",
+    "totalDistance_meters": "2.92239",
+    "totalEnergyBurned_kcal": "79.0585",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-15 15:16:28 -0700",
+    "endDate": "2025-09-15 15:29:13 -0700",
+    "duration_minutes": "12.74997095068296",
+    "totalDistance_meters": "2.49991",
+    "totalEnergyBurned_kcal": "71.8527",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-15 16:21:37 -0700",
+    "endDate": "2025-09-15 16:33:26 -0700",
+    "duration_minutes": "11.81186825831731",
+    "totalDistance_meters": "1.37573",
+    "totalEnergyBurned_kcal": "32.3597",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-17 09:31:56 -0700",
+    "endDate": "2025-09-17 09:49:13 -0700",
+    "duration_minutes": "17.29297589659691",
+    "totalDistance_meters": "2.92538",
+    "totalEnergyBurned_kcal": "83.8785",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-17 16:21:25 -0700",
+    "endDate": "2025-09-17 16:43:01 -0700",
+    "duration_minutes": "21.59006221294403",
+    "totalDistance_meters": "3.04658",
+    "totalEnergyBurned_kcal": "84.411",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-22 09:31:26 -0700",
+    "endDate": "2025-09-22 09:49:14 -0700",
+    "duration_minutes": "17.80235582590103",
+    "totalDistance_meters": "2.93897",
+    "totalEnergyBurned_kcal": "83.6477",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-22 16:33:12 -0700",
+    "endDate": "2025-09-22 16:49:30 -0700",
+    "duration_minutes": "16.29152167240779",
+    "totalDistance_meters": "2.86983",
+    "totalEnergyBurned_kcal": "83.3313",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-23 10:18:03 -0700",
+    "endDate": "2025-09-23 10:35:12 -0700",
+    "duration_minutes": "17.14360127051672",
+    "totalDistance_meters": "2.97688",
+    "totalEnergyBurned_kcal": "97.0446",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-23 16:19:10 -0700",
+    "endDate": "2025-09-23 16:35:58 -0700",
+    "duration_minutes": "16.78970795075099",
+    "totalDistance_meters": "2.9163",
+    "totalEnergyBurned_kcal": "72.0508",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-29 10:54:32 -0700",
+    "endDate": "2025-09-29 11:11:31 -0700",
+    "duration_minutes": "16.98352447152138",
+    "totalDistance_meters": "2.95153",
+    "totalEnergyBurned_kcal": "84.0727",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-29 16:53:36 -0700",
+    "endDate": "2025-09-29 17:12:39 -0700",
+    "duration_minutes": "19.05324548085531",
+    "totalDistance_meters": "3.00905",
+    "totalEnergyBurned_kcal": "69.7717",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-30 09:22:02 -0700",
+    "endDate": "2025-09-30 10:00:15 -0700",
+    "duration_minutes": "30.39598010977109",
+    "totalDistance_meters": "4.57043",
+    "totalEnergyBurned_kcal": "117.042",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-30 15:31:52 -0700",
+    "endDate": "2025-09-30 15:58:16 -0700",
+    "duration_minutes": "26.40334036747614",
+    "totalDistance_meters": "2.90138",
+    "totalEnergyBurned_kcal": "91.202",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-09-30 16:08:33 -0700",
+    "endDate": "2025-09-30 16:16:03 -0700",
+    "duration_minutes": "7.511525197823842",
+    "totalDistance_meters": "1.1339",
+    "totalEnergyBurned_kcal": "22.3538",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-01 09:32:40 -0700",
+    "endDate": "2025-10-01 09:50:04 -0700",
+    "duration_minutes": "17.39660427172979",
+    "totalDistance_meters": "2.86493",
+    "totalEnergyBurned_kcal": "80.868",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-01 17:03:37 -0700",
+    "endDate": "2025-10-01 17:21:50 -0700",
+    "duration_minutes": "18.21568355957667",
+    "totalDistance_meters": "2.97567",
+    "totalEnergyBurned_kcal": "68.4095",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-02 09:34:24 -0700",
+    "endDate": "2025-10-02 09:52:27 -0700",
+    "duration_minutes": "18.05784758130709",
+    "totalDistance_meters": "2.96348",
+    "totalEnergyBurned_kcal": "82.056",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-06 09:48:48 -0700",
+    "endDate": "2025-10-06 10:07:10 -0700",
+    "duration_minutes": "18.37448626359304",
+    "totalDistance_meters": "2.98162",
+    "totalEnergyBurned_kcal": "91.9629",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-06 17:00:55 -0700",
+    "endDate": "2025-10-06 17:19:36 -0700",
+    "duration_minutes": "18.69332501292229",
+    "totalDistance_meters": "2.9648",
+    "totalEnergyBurned_kcal": "69.2228",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-08 09:42:09 -0700",
+    "endDate": "2025-10-08 10:05:52 -0700",
+    "duration_minutes": "23.7102468252182",
+    "totalDistance_meters": "2.94568",
+    "totalEnergyBurned_kcal": "100.084",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-08 17:06:18 -0700",
+    "endDate": "2025-10-08 17:26:12 -0700",
+    "duration_minutes": "19.90376083850861",
+    "totalDistance_meters": "2.93358",
+    "totalEnergyBurned_kcal": "63.9165",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-09 09:31:16 -0700",
+    "endDate": "2025-10-09 09:47:49 -0700",
+    "duration_minutes": "16.54188078840574",
+    "totalDistance_meters": "2.94669",
+    "totalEnergyBurned_kcal": "87.6251",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-09 16:18:16 -0700",
+    "endDate": "2025-10-09 16:41:48 -0700",
+    "duration_minutes": "23.54550732374191",
+    "totalDistance_meters": "3.07823",
+    "totalEnergyBurned_kcal": "77.0512",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-10 09:42:37 -0700",
+    "endDate": "2025-10-10 09:57:38 -0700",
+    "duration_minutes": "15.01893852949143",
+    "totalDistance_meters": "2.89688",
+    "totalEnergyBurned_kcal": "101.066",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-10 16:05:23 -0700",
+    "endDate": "2025-10-10 16:21:59 -0700",
+    "duration_minutes": "16.59889283577601",
+    "totalDistance_meters": "2.95475",
+    "totalEnergyBurned_kcal": "75.3997",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-15 09:24:49 -0700",
+    "endDate": "2025-10-15 09:41:53 -0700",
+    "duration_minutes": "17.06161572933197",
+    "totalDistance_meters": "2.92229",
+    "totalEnergyBurned_kcal": "86.635",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-15 17:01:25 -0700",
+    "endDate": "2025-10-15 17:19:41 -0700",
+    "duration_minutes": "18.26426639556885",
+    "totalDistance_meters": "2.96661",
+    "totalEnergyBurned_kcal": "69.0212",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-17 16:51:00 -0700",
+    "endDate": "2025-10-17 17:17:26 -0700",
+    "duration_minutes": "26.432157878081",
+    "totalDistance_meters": "3.85717",
+    "totalEnergyBurned_kcal": "102.254",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-18 10:43:38 -0700",
+    "endDate": "2025-10-18 11:46:13 -0700",
+    "duration_minutes": "62.59070436954498",
+    "totalDistance_meters": "13.8799",
+    "totalEnergyBurned_kcal": "236.483",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-20 09:47:44 -0700",
+    "endDate": "2025-10-20 10:05:20 -0700",
+    "duration_minutes": "17.60298209389051",
+    "totalDistance_meters": "3.00939",
+    "totalEnergyBurned_kcal": "82.609",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-20 16:56:16 -0700",
+    "endDate": "2025-10-20 17:16:23 -0700",
+    "duration_minutes": "20.10500711798668",
+    "totalDistance_meters": "3.11047",
+    "totalEnergyBurned_kcal": "77.493",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-21 09:40:48 -0700",
+    "endDate": "2025-10-21 10:09:11 -0700",
+    "duration_minutes": "28.39235009551048",
+    "totalDistance_meters": "2.99087",
+    "totalEnergyBurned_kcal": "125.61",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-21 16:26:30 -0700",
+    "endDate": "2025-10-21 16:43:43 -0700",
+    "duration_minutes": "17.22224165399869",
+    "totalDistance_meters": "3.07963",
+    "totalEnergyBurned_kcal": "81.282",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-21 17:19:04 -0700",
+    "endDate": "2025-10-21 17:59:37 -0700",
+    "duration_minutes": "40.54050578474998",
+    "totalDistance_meters": "4.67644",
+    "totalEnergyBurned_kcal": "97.206",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-22 09:36:08 -0700",
+    "endDate": "2025-10-22 09:53:35 -0700",
+    "duration_minutes": "17.44146121740341",
+    "totalDistance_meters": "3.01245",
+    "totalEnergyBurned_kcal": "91.5778",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-22 17:06:57 -0700",
+    "endDate": "2025-10-22 17:26:31 -0700",
+    "duration_minutes": "19.5730600853761",
+    "totalDistance_meters": "3.07726",
+    "totalEnergyBurned_kcal": "72.8203",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-23 09:41:22 -0700",
+    "endDate": "2025-10-23 09:58:16 -0700",
+    "duration_minutes": "16.91217819452286",
+    "totalDistance_meters": "2.99345",
+    "totalEnergyBurned_kcal": "88.2053",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-23 16:18:50 -0700",
+    "endDate": "2025-10-23 16:37:52 -0700",
+    "duration_minutes": "19.04381861686706",
+    "totalDistance_meters": "3.16733",
+    "totalEnergyBurned_kcal": "82.5679",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-25 11:00:34 -0700",
+    "endDate": "2025-10-25 12:00:22 -0700",
+    "duration_minutes": "59.79484648108483",
+    "totalDistance_meters": "13.371",
+    "totalEnergyBurned_kcal": "286.128",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  },
+  {
+    "startDate": "2025-10-27 09:45:22 -0700",
+    "endDate": "2025-10-27 10:03:24 -0700",
+    "duration_minutes": "18.03135576446851",
+    "totalDistance_meters": "1.33388",
+    "totalEnergyBurned_kcal": "103.141",
+    "sourceName": "JENNIFER ’s Apple Watch",
+    "sourceVersion": "11.6.1",
+    "device": "<<HKDevice: 0x8173bff20>, name:Apple Watch, manufacturer:Apple Inc., model:Watch, hardware:Watch7,3, software:11.6.1, creation date:2025-09-12 09:32:49 +0000>"
+  }
+]

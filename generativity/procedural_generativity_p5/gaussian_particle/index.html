@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Gaussian Particle System</title>
+    <style>
+      html, body { margin: 0; padding: 0; background: #111; color: #eee; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; }
+      main { min-height: 100vh; display: flex; align-items: center; justify-content: center; }
+      canvas { border: 1px solid #333; }
+      #controls { position: absolute; top: 20px; right: 20px; background: rgba(0,0,0,0.8); padding: 15px; border-radius: 8px; min-width: 200px; }
+      #controls label { display: block; margin: 10px 0 5px; font-size: 13px; }
+      #controls input[type="range"] { width: 100%; }
+      #controls .value { color: #4a9eff; font-weight: 600; }
+    </style>
+  </head>
+  <body>
+    <div id="controls">
+      <label>Seed Count: <span class="value" id="seedCountValue">100</span></label>
+      <input type="range" id="seedCount" min="10" max="300" value="100" />
+      
+      <label>Dandelion Count: <span class="value" id="dandelionCountValue">10</span></label>
+      <input type="range" id="dandelionCount" min="1" max="30" value="10" />
+      
+      <label>Velocity: <span class="value" id="velocityValue">1.0</span></label>
+      <input type="range" id="velocity" min="0.1" max="3.0" step="0.1" value="1.0" />
+    </div>
+    <main>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.min.js"></script>
+      <script src="sketch.js"></script>
+    </main>
+  </body>
+</html>

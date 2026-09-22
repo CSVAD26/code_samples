@@ -1,0 +1,871 @@
+{
+  "movies": {
+    "the-piss-saga": {
+      "name": "The Piss Saga",
+      "id": "1421762",
+      "rating": null,
+      "year": 2025,
+      "liked": false
+    },
+    "mayhem-2017": {
+      "name": "Mayhem",
+      "id": "363053",
+      "rating": null,
+      "year": 2017,
+      "liked": false
+    },
+    "piranha": {
+      "name": "Piranha",
+      "id": "36479",
+      "rating": null,
+      "year": 1978,
+      "liked": false
+    },
+    "chimp-crazy": {
+      "name": "Chimp Crazy",
+      "id": "1230668",
+      "rating": null,
+      "year": 2024,
+      "liked": false
+    },
+    "the-hanna-barbera-kennel-club-roasts-scooby-doo": {
+      "name": "The Hanna-Barbera Kennel Club Roasts Scooby-Doo",
+      "id": "923920",
+      "rating": null,
+      "year": 2005,
+      "liked": false
+    },
+    "an-evening-with-the-scooby-doo-gang": {
+      "name": "An Evening with the Scooby-Doo Gang",
+      "id": "997503",
+      "rating": null,
+      "year": 2005,
+      "liked": false
+    },
+    "long-shot-2017": {
+      "name": "Long Shot",
+      "id": "408386",
+      "rating": null,
+      "year": 2017,
+      "liked": false
+    },
+    "bikram-yogi-guru-predator": {
+      "name": "Bikram: Yogi, Guru, Predator",
+      "id": "548388",
+      "rating": null,
+      "year": 2019,
+      "liked": false
+    },
+    "love-2015": {
+      "name": "Love",
+      "id": "218895",
+      "rating": null,
+      "year": 2015,
+      "liked": false
+    },
+    "a-nonsense-christmas-with-sabrina-carpenter": {
+      "name": "A Nonsense Christmas with Sabrina Carpenter",
+      "id": "1247323",
+      "rating": null,
+      "year": 2024,
+      "liked": false
+    },
+    "black-panther": {
+      "name": "Black Panther",
+      "id": "209383",
+      "rating": null,
+      "year": 2018,
+      "liked": false
+    },
+    "the-social-dilemma": {
+      "name": "The Social Dilemma",
+      "id": "581924",
+      "rating": null,
+      "year": 2020,
+      "liked": false
+    },
+    "the-disappearance-of-madeleine-mccann": {
+      "name": "The Disappearance of Madeleine McCann",
+      "id": "516946",
+      "rating": null,
+      "year": 2019,
+      "liked": false
+    },
+    "how-to-fix-a-drug-scandal": {
+      "name": "How to Fix a Drug Scandal",
+      "id": "614120",
+      "rating": null,
+      "year": 2020,
+      "liked": false
+    },
+    "tiger-king": {
+      "name": "Tiger King",
+      "id": "609392",
+      "rating": null,
+      "year": 2020,
+      "liked": false
+    },
+    "murder-mystery": {
+      "name": "Murder Mystery",
+      "id": "444598",
+      "rating": null,
+      "year": 2019,
+      "liked": false
+    },
+    "inside-out-2015": {
+      "name": "Inside Out",
+      "id": "113284",
+      "rating": null,
+      "year": 2015,
+      "liked": false
+    },
+    "the-wizard-of-oz-1939": {
+      "name": "The Wizard of Oz",
+      "id": "51494",
+      "rating": null,
+      "year": 1939,
+      "liked": false
+    },
+    "whiskey-tango-foxtrot": {
+      "name": "Whiskey Tango Foxtrot",
+      "id": "203879",
+      "rating": null,
+      "year": 2016,
+      "liked": false
+    },
+    "the-polar-express": {
+      "name": "The Polar Express",
+      "id": "48883",
+      "rating": null,
+      "year": 2004,
+      "liked": false
+    },
+    "john-mulaney-the-sack-lunch-bunch": {
+      "name": "John Mulaney & The Sack Lunch Bunch",
+      "id": "575704",
+      "rating": null,
+      "year": 2019,
+      "liked": false
+    },
+    "the-outsiders": {
+      "name": "The Outsiders",
+      "id": "51829",
+      "rating": null,
+      "year": 1983,
+      "liked": false
+    },
+    "the-sound-of-music": {
+      "name": "The Sound of Music",
+      "id": "42580",
+      "rating": null,
+      "year": 1965,
+      "liked": false
+    },
+    "cast-away": {
+      "name": "Cast Away",
+      "id": "47778",
+      "rating": null,
+      "year": 2000,
+      "liked": false
+    },
+    "the-founder": {
+      "name": "The Founder",
+      "id": "237378",
+      "rating": null,
+      "year": 2016,
+      "liked": false
+    },
+    "men-in-black": {
+      "name": "Men in Black",
+      "id": "51514",
+      "rating": null,
+      "year": 1997,
+      "liked": false
+    },
+    "freaky-friday-2003": {
+      "name": "Freaky Friday",
+      "id": "46331",
+      "rating": null,
+      "year": 2003,
+      "liked": false
+    },
+    "the-devil-wears-prada": {
+      "name": "The Devil Wears Prada",
+      "id": "51712",
+      "rating": null,
+      "year": 2006,
+      "liked": false
+    },
+    "tangled-2010": {
+      "name": "Tangled",
+      "id": "25859",
+      "rating": null,
+      "year": 2010,
+      "liked": false
+    },
+    "to-kill-a-mockingbird": {
+      "name": "To Kill a Mockingbird",
+      "id": "51526",
+      "rating": null,
+      "year": 1962,
+      "liked": false
+    },
+    "groundhog-day": {
+      "name": "Groundhog Day",
+      "id": "51914",
+      "rating": null,
+      "year": 1993,
+      "liked": false
+    },
+    "bo-burnham-words-words-words": {
+      "name": "Bo Burnham: Words, Words, Words",
+      "id": "17522",
+      "rating": null,
+      "year": 2010,
+      "liked": false
+    },
+    "the-neverending-story": {
+      "name": "The NeverEnding Story",
+      "id": "29078",
+      "rating": null,
+      "year": 1984,
+      "liked": false
+    },
+    "i-am-so-proud-of-you": {
+      "name": "I Am So Proud of You",
+      "id": "30369",
+      "rating": null,
+      "year": 2008,
+      "liked": false
+    },
+    "everything-will-be-ok": {
+      "name": "Everything Will Be OK",
+      "id": "30371",
+      "rating": null,
+      "year": 2006,
+      "liked": false
+    },
+    "scary-movie-2000": {
+      "name": "Scary Movie",
+      "id": "49443",
+      "rating": null,
+      "year": 2000,
+      "liked": false
+    },
+    "the-bare-wench-project": {
+      "name": "The Bare Wench Project",
+      "id": "34427",
+      "rating": null,
+      "year": 2000,
+      "liked": false
+    },
+    "ordinary-people": {
+      "name": "Ordinary People",
+      "id": "41474",
+      "rating": null,
+      "year": 1980,
+      "liked": false
+    },
+    "killer-bean-forever": {
+      "name": "Killer Bean Forever",
+      "id": "36702",
+      "rating": null,
+      "year": 2008,
+      "liked": true
+    },
+    "mamma-mia": {
+      "name": "Mamma Mia!",
+      "id": "45120",
+      "rating": null,
+      "year": 2008,
+      "liked": false
+    },
+    "et-the-extra-terrestrial": {
+      "name": "E.T. the Extra-Terrestrial",
+      "id": "51520",
+      "rating": null,
+      "year": 1982,
+      "liked": false
+    },
+    "adventureland": {
+      "name": "Adventureland",
+      "id": "41477",
+      "rating": null,
+      "year": 2009,
+      "liked": false
+    },
+    "snowpiercer": {
+      "name": "Snowpiercer",
+      "id": "88488",
+      "rating": null,
+      "year": 2013,
+      "liked": false
+    },
+    "chicken-run": {
+      "name": "Chicken Run",
+      "id": "48033",
+      "rating": null,
+      "year": 2000,
+      "liked": false
+    },
+    "john-mulaney-the-comeback-kid": {
+      "name": "John Mulaney: The Comeback Kid",
+      "id": "303704",
+      "rating": null,
+      "year": 2015,
+      "liked": false
+    },
+    "the-hatchet-wielding-hitchhiker": {
+      "name": "The Hatchet Wielding Hitchhiker",
+      "id": "956954",
+      "rating": null,
+      "year": 2023,
+      "liked": false
+    },
+    "squid-game": {
+      "name": "Squid Game",
+      "id": "787181",
+      "rating": null,
+      "year": 2021,
+      "liked": false
+    },
+    "middleditch-schwartz": {
+      "name": "Middleditch & Schwartz",
+      "id": "617744",
+      "rating": null,
+      "year": 2020,
+      "liked": false
+    },
+    "bridge-to-terabithia": {
+      "name": "Bridge to Terabithia",
+      "id": "51117",
+      "rating": null,
+      "year": 2007,
+      "liked": false
+    },
+    "the-human-centipede-3-final-sequence": {
+      "name": "The Human Centipede 3 (Final Sequence)",
+      "id": "78363",
+      "rating": null,
+      "year": 2015,
+      "liked": false
+    },
+    "night-at-the-museum": {
+      "name": "Night at the Museum",
+      "id": "50941",
+      "rating": null,
+      "year": 2006,
+      "liked": false
+    },
+    "the-help": {
+      "name": "The Help",
+      "id": "15620",
+      "rating": null,
+      "year": 2011,
+      "liked": false
+    },
+    "over-the-hedge": {
+      "name": "Over the Hedge",
+      "id": "47994",
+      "rating": null,
+      "year": 2006,
+      "liked": false
+    },
+    "the-blind-side": {
+      "name": "The Blind Side",
+      "id": "37648",
+      "rating": null,
+      "year": 2009,
+      "liked": false
+    },
+    "interstellar": {
+      "name": "Interstellar",
+      "id": "117621",
+      "rating": null,
+      "year": 2014,
+      "liked": false
+    },
+    "how-the-grinch-stole-christmas-2000": {
+      "name": "How the Grinch Stole Christmas",
+      "id": "47553",
+      "rating": null,
+      "year": 2000,
+      "liked": false
+    },
+    "charlie-and-the-chocolate-factory": {
+      "name": "Charlie and the Chocolate Factory",
+      "id": "51932",
+      "rating": null,
+      "year": 2005,
+      "liked": false
+    },
+    "elf": {
+      "name": "Elf",
+      "id": "45959",
+      "rating": null,
+      "year": 2003,
+      "liked": false
+    },
+    "big": {
+      "name": "Big",
+      "id": "50368",
+      "rating": null,
+      "year": 1988,
+      "liked": false
+    },
+    "coraline": {
+      "name": "Coraline",
+      "id": "42779",
+      "rating": null,
+      "year": 2009,
+      "liked": false
+    },
+    "the-kissing-booth": {
+      "name": "The Kissing Booth",
+      "id": "387035",
+      "rating": null,
+      "year": 2018,
+      "liked": false
+    },
+    "american-murder-the-family-next-door": {
+      "name": "American Murder: The Family Next Door",
+      "id": "665136",
+      "rating": null,
+      "year": 2020,
+      "liked": false
+    },
+    "songs-my-brothers-taught-me": {
+      "name": "Songs My Brothers Taught Me",
+      "id": "235746",
+      "rating": null,
+      "year": 2015,
+      "liked": false
+    },
+    "attack-of-the-killer-tomatoes": {
+      "name": "Attack of the Killer Tomatoes!",
+      "id": "50455",
+      "rating": null,
+      "year": 1978,
+      "liked": false
+    },
+    "lolita": {
+      "name": "Lolita",
+      "id": "51350",
+      "rating": null,
+      "year": 1962,
+      "liked": false
+    },
+    "psycho": {
+      "name": "Psycho",
+      "id": "51578",
+      "rating": null,
+      "year": 1960,
+      "liked": false
+    },
+    "the-babadook": {
+      "name": "The Babadook",
+      "id": "169728",
+      "rating": null,
+      "year": 2014,
+      "liked": false
+    },
+    "why-did-you-kill-me": {
+      "name": "Why Did You Kill Me?",
+      "id": "727632",
+      "rating": null,
+      "year": 2021,
+      "liked": false
+    },
+    "chappie": {
+      "name": "Chappie",
+      "id": "142248",
+      "rating": null,
+      "year": 2015,
+      "liked": false
+    },
+    "up": {
+      "name": "Up",
+      "id": "43302",
+      "rating": null,
+      "year": 2009,
+      "liked": false
+    },
+    "extremely-wicked-shockingly-evil-and-vile": {
+      "name": "Extremely Wicked, Shockingly Evil and Vile",
+      "id": "389637",
+      "rating": null,
+      "year": 2019,
+      "liked": false
+    },
+    "hugo": {
+      "name": "Hugo",
+      "id": "20374",
+      "rating": null,
+      "year": 2011,
+      "liked": false
+    },
+    "kristy": {
+      "name": "Kristy",
+      "id": "110739",
+      "rating": null,
+      "year": 2014,
+      "liked": false
+    },
+    "bird-box": {
+      "name": "Bird Box",
+      "id": "340202",
+      "rating": null,
+      "year": 2018,
+      "liked": false
+    },
+    "rabbit-proof-fence": {
+      "name": "Rabbit-Proof Fence",
+      "id": "47045",
+      "rating": null,
+      "year": 2002,
+      "liked": false
+    },
+    "terrifier-2016": {
+      "name": "Terrifier",
+      "id": "354251",
+      "rating": null,
+      "year": 2016,
+      "liked": false
+    },
+    "possessor": {
+      "name": "Possessor",
+      "id": "368540",
+      "rating": null,
+      "year": 2020,
+      "liked": true
+    },
+    "ghostbusters": {
+      "name": "Ghostbusters",
+      "id": "6166",
+      "rating": null,
+      "year": 1984,
+      "liked": false
+    },
+    "grease": {
+      "name": "Grease",
+      "id": "51503",
+      "rating": null,
+      "year": 1978,
+      "liked": false
+    },
+    "big-hero-6": {
+      "name": "Big Hero 6",
+      "id": "129662",
+      "rating": null,
+      "year": 2014,
+      "liked": false
+    },
+    "home-alone": {
+      "name": "Home Alone",
+      "id": "51381",
+      "rating": null,
+      "year": 1990,
+      "liked": false
+    },
+    "finding-nemo": {
+      "name": "Finding Nemo",
+      "id": "2705",
+      "rating": null,
+      "year": 2003,
+      "liked": false
+    },
+    "walle": {
+      "name": "WALL\u00b7E",
+      "id": "45994",
+      "rating": null,
+      "year": 2008,
+      "liked": false
+    },
+    "avatar": {
+      "name": "Avatar",
+      "id": "39304",
+      "rating": null,
+      "year": 2009,
+      "liked": false
+    },
+    "ratatouille": {
+      "name": "Ratatouille",
+      "id": "50558",
+      "rating": null,
+      "year": 2007,
+      "liked": false
+    },
+    "guardians-of-the-galaxy": {
+      "name": "Guardians of the Galaxy",
+      "id": "93676",
+      "rating": null,
+      "year": 2014,
+      "liked": false
+    },
+    "the-matrix": {
+      "name": "The Matrix",
+      "id": "51518",
+      "rating": null,
+      "year": 1999,
+      "liked": false
+    },
+    "black-mirror-black-museum": {
+      "name": "Black Mirror: Black Museum",
+      "id": "425695",
+      "rating": null,
+      "year": 2017,
+      "liked": false
+    },
+    "black-mirror-san-junipero": {
+      "name": "Black Mirror: San Junipero",
+      "id": "478261",
+      "rating": null,
+      "year": 2016,
+      "liked": false
+    },
+    "the-green-mile": {
+      "name": "The Green Mile",
+      "id": "51613",
+      "rating": null,
+      "year": 1999,
+      "liked": true
+    },
+    "ferris-buellers-day-off": {
+      "name": "Ferris Bueller's Day Off",
+      "id": "47219",
+      "rating": null,
+      "year": 1986,
+      "liked": false
+    },
+    "good-will-hunting": {
+      "name": "Good Will Hunting",
+      "id": "51621",
+      "rating": null,
+      "year": 1997,
+      "liked": false
+    },
+    "dahmer-monster-the-jeffrey-dahmer-story": {
+      "name": "DAHMER - Monster: The Jeffrey Dahmer Story",
+      "id": "926280",
+      "rating": null,
+      "year": 2022,
+      "liked": false
+    },
+    "its-such-a-beautiful-day-2011": {
+      "name": "It's Such a Beautiful Day",
+      "id": "73120",
+      "rating": null,
+      "year": 2011,
+      "liked": false
+    },
+    "the-perks-of-being-a-wallflower": {
+      "name": "The Perks of Being a Wallflower",
+      "id": "71338",
+      "rating": null,
+      "year": 2012,
+      "liked": false
+    },
+    "the-boy-2016": {
+      "name": "The Boy",
+      "id": "248318",
+      "rating": null,
+      "year": 2016,
+      "liked": false
+    },
+    "house-of-wax-2005": {
+      "name": "House of Wax",
+      "id": "46580",
+      "rating": null,
+      "year": 2005,
+      "liked": false
+    },
+    "twin-peaks-the-return": {
+      "name": "Twin Peaks: The Return",
+      "id": "424054",
+      "rating": null,
+      "year": 2017,
+      "liked": false
+    },
+    "rosemarys-baby": {
+      "name": "Rosemary's Baby",
+      "id": "51347",
+      "rating": null,
+      "year": 1968,
+      "liked": false
+    },
+    "pans-labyrinth": {
+      "name": "Pan's Labyrinth",
+      "id": "51047",
+      "rating": null,
+      "year": 2006,
+      "liked": false
+    },
+    "super-8": {
+      "name": "Super 8",
+      "id": "5355",
+      "rating": null,
+      "year": 2011,
+      "liked": false
+    },
+    "the-blair-witch-project": {
+      "name": "The Blair Witch Project",
+      "id": "50159",
+      "rating": null,
+      "year": 1999,
+      "liked": false
+    },
+    "the-human-centipede-2-full-sequence": {
+      "name": "The Human Centipede 2 (Full Sequence)",
+      "id": "60898",
+      "rating": null,
+      "year": 2011,
+      "liked": false
+    },
+    "the-bobs-burgers-movie": {
+      "name": "The Bob's Burgers Movie",
+      "id": "434803",
+      "rating": null,
+      "year": 2022,
+      "liked": false
+    },
+    "clearcut": {
+      "name": "Clearcut",
+      "id": "92419",
+      "rating": null,
+      "year": 1991,
+      "liked": false
+    },
+    "the-witch-2015": {
+      "name": "The Witch",
+      "id": "237177",
+      "rating": null,
+      "year": 2015,
+      "liked": false
+    },
+    "the-invitation-2015": {
+      "name": "The Invitation",
+      "id": "234068",
+      "rating": null,
+      "year": 2015,
+      "liked": false
+    },
+    "rejected": {
+      "name": "Rejected",
+      "id": "30367",
+      "rating": null,
+      "year": 2000,
+      "liked": false
+    },
+    "kikis-delivery-service": {
+      "name": "Kiki's Delivery Service",
+      "id": "41360",
+      "rating": null,
+      "year": 1989,
+      "liked": false
+    },
+    "bee-movie": {
+      "name": "Bee Movie",
+      "id": "48791",
+      "rating": null,
+      "year": 2007,
+      "liked": false
+    },
+    "avalanche-sharks": {
+      "name": "Avalanche Sharks",
+      "id": "174076",
+      "rating": null,
+      "year": 2012,
+      "liked": false
+    },
+    "sharknado-2-the-second-one": {
+      "name": "Sharknado 2: The Second One",
+      "id": "173630",
+      "rating": null,
+      "year": 2014,
+      "liked": false
+    },
+    "the-exorcist": {
+      "name": "The Exorcist",
+      "id": "47048",
+      "rating": null,
+      "year": 1973,
+      "liked": false
+    },
+    "superbad": {
+      "name": "Superbad",
+      "id": "47776",
+      "rating": null,
+      "year": 2007,
+      "liked": false
+    },
+    "the-grand-budapest-hotel": {
+      "name": "The Grand Budapest Hotel",
+      "id": "95113",
+      "rating": null,
+      "year": 2014,
+      "liked": false
+    },
+    "black-mirror-bandersnatch": {
+      "name": "Black Mirror: Bandersnatch",
+      "id": "498044",
+      "rating": null,
+      "year": 2018,
+      "liked": false
+    },
+    "black-mirror-nosedive": {
+      "name": "Black Mirror: Nosedive",
+      "id": "422900",
+      "rating": null,
+      "year": 2016,
+      "liked": false
+    },
+    "history-of-the-entire-world-i-guess": {
+      "name": "history of the entire world, i guess",
+      "id": "663679",
+      "rating": null,
+      "year": 2017,
+      "liked": true
+    },
+    "the-martian": {
+      "name": "The Martian",
+      "id": "211511",
+      "rating": null,
+      "year": 2015,
+      "liked": false
+    },
+    "exit-through-the-gift-shop": {
+      "name": "Exit Through the Gift Shop",
+      "id": "25234",
+      "rating": null,
+      "year": 2010,
+      "liked": false
+    },
+    "the-silence-of-the-lambs": {
+      "name": "The Silence of the Lambs",
+      "id": "51782",
+      "rating": null,
+      "year": 1991,
+      "liked": true
+    },
+    "scott-pilgrim-vs-the-world": {
+      "name": "Scott Pilgrim vs. the World",
+      "id": "37833",
+      "rating": null,
+      "year": 2010,
+      "liked": true
+    },
+    "pulp-fiction": {
+      "name": "Pulp Fiction",
+      "id": "51444",
+      "rating": null,
+      "year": 1994,
+      "liked": true
+    }
+  },
+  "count": 123,
+  "liked_count": 7,
+  "rating_count": 0,
+  "liked_percentage": 5.69,
+  "rating_percentage": 0.0,
+  "rating_average": 0.0
+}

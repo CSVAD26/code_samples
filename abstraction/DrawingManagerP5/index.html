@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DrawingManager for p5.js - Examples</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        
+        h1 {
+            font-size: 36px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .subtitle {
+            font-size: 18px;
+            color: #666;
+            margin-bottom: 30px;
+        }
+        
+        .intro {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            line-height: 1.6;
+            color: #555;
+        }
+        
+        .examples-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 30px;
+        }
+        
+        .example-card {
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            padding: 24px;
+            text-decoration: none;
+            color: inherit;
+            transition: all 0.3s ease;
+            display: block;
+        }
+        
+        .example-card:hover {
+            transform: translateY(-4px);
+            box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+            border-color: #667eea;
+        }
+        
+        .example-card h2 {
+            font-size: 20px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        
+        .example-card p {
+            font-size: 14px;
+            color: #666;
+            line-height: 1.5;
+        }
+        
+        .features {
+            margin-top: 40px;
+        }
+        
+        .features h2 {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 15px;
+        }
+        
+        .features ul {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .features li {
+            padding: 10px 0;
+            padding-left: 30px;
+            position: relative;
+            color: #555;
+        }
+        
+        .features li:before {
+            content: "✓";
+            position: absolute;
+            left: 0;
+            color: #667eea;
+            font-weight: bold;
+            font-size: 18px;
+        }
+        
+        .docs-link {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 12px 24px;
+            border-radius: 6px;
+            text-decoration: none;
+            margin-top: 20px;
+            transition: background 0.3s ease;
+        }
+        
+        .docs-link:hover {
+            background: #5568d3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>DrawingManager for p5.js</h1>
+        <p class="subtitle">A drawing abstraction library for creative coding</p>
+        
+        <div class="intro">
+            <p><strong>DrawingManager</strong> is a p5.js library that provides a higher-level interface for creating and manipulating drawings. It records drawing operations as objects, allowing you to build complex drawings programmatically, apply transformations, and manage drawing state with ease.</p>
+        </div>
+        
+        <div class="features">
+            <h2>Features</h2>
+            <ul>
+                <li>Record drawing operations as replayable objects</li>
+                <li>Build shapes incrementally with vertices</li>
+                <li>Apply transformations (translate, rotate, scale) to shapes</li>
+                <li>Programmatic manipulation of drawings</li>
+                <li>Clear and redraw capabilities</li>
+                <li>SVG export support (with p5.svg library)</li>
+            </ul>
+        </div>
+        
+        <h2 style="margin-top: 40px; margin-bottom: 20px; font-size: 24px; color: #333;">Examples</h2>
+        
+        <div class="examples-grid">
+            <a href="examples/BasicDrawing/index.html" class="example-card">
+                <h2>Basic Drawing</h2>
+                <p>A simple freehand drawing example showing the minimal setup needed to get started with DrawingManager.</p>
+            </a>
+            
+            <a href="examples/DripBrush/index.html" class="example-card">
+                <h2>Drip Brush</h2>
+                <p>An interactive brush where drips fall from your drawing path. Demonstrates dynamic shape creation and animation.</p>
+            </a>
+            
+            <a href="examples/MirrorBrush/index.html" class="example-card">
+                <h2>Mirror Brush</h2>
+                <p>Draw on one side and see it mirrored on the other. Shows how to use transformations with DShape objects.</p>
+            </a>
+            
+            <a href="examples/SpikeBrush/index.html" class="example-card">
+                <h2>Spike Brush</h2>
+                <p>Creates triangular spikes that point in the direction of movement. Demonstrates rotation based on mouse velocity.</p>
+            </a>
+        </div>
+        
+        <h2 style="margin-top: 40px; margin-bottom: 20px; font-size: 24px; color: #333;">Addon Version Examples</h2>
+        <p style="margin-bottom: 20px; color: #666;">The addon version extends p5.prototype for a more native p5.js feel. <a href="README-ADDON.md" target="_blank" style="color: #667eea;">Learn more about the addon version →</a></p>
+        
+        <div class="examples-grid">
+            <a href="examples-addon/BasicDrawing/index.html" class="example-card">
+                <h2>Basic Drawing (Addon)</h2>
+                <p>The same basic drawing example using the addon API with dm-prefixed methods.</p>
+            </a>
+            
+            <a href="examples-addon/MirrorBrush/index.html" class="example-card">
+                <h2>Mirror Brush (Addon)</h2>
+                <p>Mirror drawing using the p5.prototype extension approach.</p>
+            </a>
+            
+            <a href="examples-addon/SpikeBrush/index.html" class="example-card">
+                <h2>Spike Brush (Addon)</h2>
+                <p>Spike brush using native-feeling p5 methods like dmTriangle() and dmRotate().</p>
+            </a>
+        </div>
+        
+        <a href="README.md" class="docs-link" target="_blank">View Full Documentation →</a>
+    </div>
+</body>
+</html>

@@ -1,0 +1,227 @@
+{
+  "movies": {
+    "planet-earth-2006": {
+      "name": "Planet Earth",
+      "id": "138205",
+      "rating": 10,
+      "year": 2006,
+      "liked": false
+    },
+    "the-princess-bride": {
+      "name": "The Princess Bride",
+      "id": "50226",
+      "rating": 10,
+      "year": 1987,
+      "liked": false
+    },
+    "nosferatu-2024": {
+      "name": "Nosferatu",
+      "id": "359505",
+      "rating": 10,
+      "year": 2024,
+      "liked": false
+    },
+    "scream": {
+      "name": "Scream",
+      "id": "49455",
+      "rating": 10,
+      "year": 1996,
+      "liked": false
+    },
+    "scooby-doo": {
+      "name": "Scooby-Doo",
+      "id": "46964",
+      "rating": 10,
+      "year": 2002,
+      "liked": false
+    },
+    "the-iron-claw-2023": {
+      "name": "The Iron Claw",
+      "id": "764890",
+      "rating": 10,
+      "year": 2023,
+      "liked": false
+    },
+    "society-of-the-snow": {
+      "name": "Society of the Snow",
+      "id": "813840",
+      "rating": 10,
+      "year": 2023,
+      "liked": false
+    },
+    "marcel-the-shell-with-shoes-on-2021": {
+      "name": "Marcel the Shell with Shoes On",
+      "id": "781326",
+      "rating": 10,
+      "year": 2021,
+      "liked": false
+    },
+    "labyrinth": {
+      "name": "Labyrinth",
+      "id": "43751",
+      "rating": 10,
+      "year": 1986,
+      "liked": false
+    },
+    "jurassic-park": {
+      "name": "Jurassic Park",
+      "id": "51733",
+      "rating": 10,
+      "year": 1993,
+      "liked": false
+    },
+    "killers-of-the-flower-moon": {
+      "name": "Killers of the Flower Moon",
+      "id": "398009",
+      "rating": 10,
+      "year": 2023,
+      "liked": true
+    },
+    "the-wailing": {
+      "name": "The Wailing",
+      "id": "220556",
+      "rating": 10,
+      "year": 2016,
+      "liked": true
+    },
+    "hunt-for-the-wilderpeople": {
+      "name": "Hunt for the Wilderpeople",
+      "id": "307239",
+      "rating": 10,
+      "year": 2016,
+      "liked": false
+    },
+    "chernobyl": {
+      "name": "Chernobyl",
+      "id": "532082",
+      "rating": 10,
+      "year": 2019,
+      "liked": true
+    },
+    "the-big-lebowski": {
+      "name": "The Big Lebowski",
+      "id": "51935",
+      "rating": 10,
+      "year": 1998,
+      "liked": true
+    },
+    "gremlins-2-the-new-batch": {
+      "name": "Gremlins 2: The New Batch",
+      "id": "51225",
+      "rating": 10,
+      "year": 1990,
+      "liked": false
+    },
+    "pig-2021": {
+      "name": "Pig",
+      "id": "561763",
+      "rating": 10,
+      "year": 2021,
+      "liked": true
+    },
+    "beef-2023": {
+      "name": "BEEF",
+      "id": "996925",
+      "rating": 10,
+      "year": 2023,
+      "liked": false
+    },
+    "everything-everywhere-all-at-once": {
+      "name": "Everything Everywhere All at Once",
+      "id": "474474",
+      "rating": 10,
+      "year": 2022,
+      "liked": false
+    },
+    "isle-of-dogs-2018": {
+      "name": "Isle of Dogs",
+      "id": "333448",
+      "rating": 10,
+      "year": 2018,
+      "liked": false
+    },
+    "spirited-away": {
+      "name": "Spirited Away",
+      "id": "51921",
+      "rating": 10,
+      "year": 2001,
+      "liked": true
+    },
+    "the-killing-of-a-sacred-deer": {
+      "name": "The Killing of a Sacred Deer",
+      "id": "333310",
+      "rating": 10,
+      "year": 2017,
+      "liked": true
+    },
+    "love-exposure": {
+      "name": "Love Exposure",
+      "id": "33686",
+      "rating": 10,
+      "year": 2008,
+      "liked": true
+    },
+    "hereditary": {
+      "name": "Hereditary",
+      "id": "424348",
+      "rating": 10,
+      "year": 2018,
+      "liked": true
+    },
+    "parasite-2019": {
+      "name": "Parasite",
+      "id": "426406",
+      "rating": 10,
+      "year": 2019,
+      "liked": true
+    },
+    "a-scanner-darkly": {
+      "name": "A Scanner Darkly",
+      "id": "49710",
+      "rating": 10,
+      "year": 2006,
+      "liked": true
+    },
+    "its-such-a-beautiful-day": {
+      "name": "It's Such a Beautiful Day",
+      "id": "420137",
+      "rating": 10,
+      "year": 2012,
+      "liked": true
+    },
+    "world-of-tomorrow-episode-two-the-burden-of-other-peoples-thoughts": {
+      "name": "World of Tomorrow Episode Two: The Burden of Other People's Thoughts",
+      "id": "402903",
+      "rating": 10,
+      "year": 2017,
+      "liked": true
+    },
+    "train-to-busan": {
+      "name": "Train to Busan",
+      "id": "330912",
+      "rating": 10,
+      "year": 2016,
+      "liked": true
+    },
+    "world-of-tomorrow": {
+      "name": "World of Tomorrow",
+      "id": "230808",
+      "rating": 10,
+      "year": 2015,
+      "liked": true
+    },
+    "redline": {
+      "name": "Redline",
+      "id": "57598",
+      "rating": 10,
+      "year": 2009,
+      "liked": true
+    }
+  },
+  "count": 31,
+  "liked_count": 16,
+  "rating_count": 31,
+  "liked_percentage": 51.61,
+  "rating_percentage": 100.0,
+  "rating_average": 10.0
+}

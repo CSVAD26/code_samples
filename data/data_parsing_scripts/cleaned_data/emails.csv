@@ -1,0 +1,535 @@
+from,to,length,date
+Ars Electronica <smtp.ice@ars.electronica.art>,jmjacobs@ucsb.edu,760,2023-02-02T23:01:03
+Vimeo <vimeo@vimeo.com>,mat-ecl@ucsb.edu,0,2025-07-05T14:14:46-04:00
+Vimeo <vimeo@vimeo.com>,mat-ecl@ucsb.edu,0,2025-07-05T14:06:50-04:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Stejara Dinulescu <sdinulescu@ucsb.edu>,712,2020-03-15T14:16:29-07:00
+Stejara Dinulescu <sdinulescu@ucsb.edu>,Mark Hirsch <markhirsch8@gmail.com>,396,2020-03-15T14:13:09-07:00
+Mark Hirsch <markhirsch8@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,145,2020-03-15T14:11:54-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"Mark Hirsch <markhirsch8@gmail.com>,
+ Stejara Dinulescu <sdinulescu@ucsb.edu>",524,2020-03-15T14:05:50-07:00
+Tim Pozar <pozar@amw.org>,Jennifer Jacobs <jmjacobs@ucsb.edu>,11828,2024-04-23T20:42:23-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Tim Pozar <pozar@amw.org>,10878,2024-04-23T16:14:48-07:00
+Tim Pozar <pozar@amw.org>,amw50-announcements@amw.org,9892,2024-04-05T11:18:57-07:00
+Leah Buechley <buechley@unm.edu>,"Tim Castillo <timc@unm.edu>, Theodore Jojola <tjojola@unm.edu>, Manuel
+ Montoya <mrmonto@unm.edu>",3266,2022-06-13T19:08:57+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Marko Peljhan <peljhan@ucsb.edu>,4667,2025-06-12T09:17:57-07:00
+"""UCSB Graduate Division Academic Services"" <gradacademics@graddiv.ucsb.edu>",jmjacobs@ucsb.edu,4336,2025-06-06T15:00:17
+Jennifer Jacobs <jmjacobs@ucsb.edu>,David Sanders <dbsanders@ucsb.edu>,6913,2023-07-17T09:46:44-07:00
+David Sanders <dbsanders@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,6598,2023-07-17T09:41:22-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,David Sanders <dbsanders@ucsb.edu>,6129,2023-07-14T18:55:39-07:00
+Liora Bregman <ldbregman@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,6496,2023-06-02T16:09:26-07:00
+David Sanders <dbsanders@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,5423,2023-06-02T10:12:27-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,David Sanders <dbsanders@ucsb.edu>,4505,2023-06-02T10:10:51-07:00
+David Sanders <dbsanders@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,4131,2023-06-02T10:07:52-07:00
+Marcos Novak <marcos@ucsb.edu>,core-faculty@lists.mat.ucsb.edu,0,2024-06-07T14:19:13-07:00
+Lisa Thwing <lthwing@ucsb.edu>,"core-faculty@mat.ucsb.edu, staff@mat.ucsb.edu, students@mat.ucsb.edu",1044,2024-06-07T14:13:00-07:00
+"""=?US-ASCII?Q?National_Science_Foundation_Update?="" <nsf-update@govdelivery.nsf.gov>",jmjacobs@ucsb.edu,6637,2023-09-08T20:19:23+00:00
+research-rcr@ucsb.edu,jmjacobs@ucsb.edu,2401,2024-05-11T07:00:08-07:00
+Lisa Thwing <lthwing@ucsb.edu>,"core-faculty@lists.mat.ucsb.edu, staff@mat.ucsb.edu",1380,2024-03-07T08:54:39-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Brooke Wallace <brookedwallace@ucsb.edu>,5284,2024-04-22T09:50:10-07:00
+Brooke Wallace <brookedwallace@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,4969,2024-04-22T09:39:53-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Brooke Wallace <brookedwallace@ucsb.edu>,4258,2024-04-16T08:58:17-07:00
+Lisa Thwing <lthwing@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,4362,2024-04-16T07:44:46-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Lisa Thwing <lthwing@ucsb.edu>,3637,2024-04-15T20:28:47-07:00
+Brooke Wallace <brookedwallace@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3240,2024-04-12T15:51:30-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,COMS PERSONNEL <personnel@cs.ucsb.edu>,2367,2024-04-09T20:30:23-07:00
+Slack <feedback@slack.com>,""""" <jmjacobs@ucsb.edu>",534,2021-12-14T21:42:07+00:00
+=?utf-8?Q?J=C3=BCrgen_Steimle?= <steimle@cs.uni-saarland.de>,Jennifer Jacobs <jmjacobs@ucsb.edu>,5083,2023-02-17T17:39:39+01:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,=?UTF-8?Q?J=C3=BCrgen_Steimle?= <steimle@cs.uni-saarland.de>,4756,2023-02-16T13:44:13-08:00
+=?utf-8?Q?J=C3=BCrgen_Steimle?= <steimle@cs.uni-saarland.de>,jmjacobs@mat.ucsb.edu,4160,2023-02-16T10:11:05+01:00
+Larry Bennett <larryb@dowdiversified.com>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, Tobias Hollerer <holl@cs.ucsb.edu>",1471,2019-08-27T22:11:33+00:00
+Anastasios John Hart <no-reply@zoom.us>,Jennifer Jacobs <jmjacobs@ucsb.edu>,7205,2020-11-02T19:20:12+00:00
+"""tapsadmin@aptaracorp.awsapps.com"" <tapsadmin@aptaracorp.awsapps.com>",jmjacobs@ucsb.edu,2001,2025-05-12T04:24:24+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Rob Callaway <rcallaway@ucsb.edu>,9501,2019-11-26T11:36:19-08:00
+Rob Callaway <rcallaway@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,7030,2019-11-22T13:22:25-08:00
+Tobias Hollerer <holl@cs.ucsb.edu>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, peljhan@mat.ucsb.edu",4679,2019-11-20T19:40:45-08:00
+Tobias Hollerer <holl@cs.ucsb.edu>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, peljhan@mat.ucsb.edu",2082,2019-11-20T19:39:35-08:00
+peljhan@mat.ucsb.edu,Rob Callaway <rcallaway@ucsb.edu>,1687,2019-11-20T22:38:15+01:00
+peljhan@mat.ucsb.edu,Jennifer Jacobs <jmjacobs@ucsb.edu>,4254,2019-11-21T04:11:19+01:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Rob Callaway <rcallaway@ucsb.edu>,3541,2019-11-20T16:18:58-08:00
+Tobias Hollerer <holl@cs.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,4123,2019-11-20T15:51:00-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Tobias Hollerer <holl@cs.ucsb.edu>,3262,2019-11-20T15:09:27-08:00
+Rob Callaway <rcallaway@ucsb.edu>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, Tobias Hollerer <holl@cs.ucsb.edu>",1521,2019-11-20T13:27:47-08:00
+Kai Thaler <thaler@global.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,5448,2021-11-10T13:33:08-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Kai Thaler <thaler@ucsb.edu>,4819,2021-11-10T13:16:08-08:00
+"""Research Development"" <funding@research.ucsb.edu>",jmjacobs@ucsb.edu,3960,2021-11-10T21:02:43
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Maria Larsson <ma.ka.larsson@gmail.com>,2824,2023-12-14T09:14:04+09:00
+Maria Larsson <ma.ka.larsson@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2347,2023-12-14T09:06:27+09:00
+Maria Larsson <ma.ka.larsson@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1991,2023-12-13T17:29:33+09:00
+Maria Larsson <ma.ka.larsson@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1650,2023-12-13T17:20:54+09:00
+Franklin Mingzhe Li <mingzhe2@andrew.cmu.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1289,2023-12-07T00:36:43-05:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Koji Yatani <koji@iis-lab.org>,1115,2023-12-06T21:27:02-08:00
+Koji Yatani <koji@iis-lab.org>,"jmjacobs@mat.ucsb.edu, Maria Larsson <ma.ka.larsson@gmail.com>, 
+	Franklin Mingzhe Li <mingzhe2@andrew.cmu.edu>",903,2023-12-06T13:05:13+09:00
+SIGGRAPH<donotreply@register.rcsreg.com>,jmjacobs@ucsb.edu,186,2025-08-08T01:56:56+00:00
+Cynthia Sung <crsung@seas.upenn.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3304,2020-11-02T18:51:47-05:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Cynthia Sung <crsung@seas.upenn.edu>,3425,2020-11-02T12:19:04-05:00
+Cynthia Sung <crsung@seas.upenn.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2975,2020-10-30T09:44:46-04:00
+Cynthia Sung <crsung@seas.upenn.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2531,2020-10-07T14:40:15-04:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Cynthia Sung <crsung@seas.upenn.edu>,2063,2020-10-07T11:28:50-07:00
+Cynthia Sung <crsung@seas.upenn.edu>,"achim.menges@icd.uni-stuttgart.de, =?UTF-8?Q?Genevi=C3=A8ve_Dion?= <gd63@drexel.edu>, 
+	jbongard@uvm.edu, moritz.baecher@disneyresearch.com, yoel@mit.edu, 
+	jmjacobs@ucsb.edu",1560,2020-10-06T11:29:10-04:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Vanessa Knudson <knudson@adobe.com>,4649,2021-11-09T17:27:23-08:00
+Vanessa Knudson <knudson@adobe.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3926,2021-11-10T01:25:07+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Vanessa Knudson <knudson@adobe.com>,5652,2021-11-05T06:56:38-07:00
+Vanessa Knudson <knudson@adobe.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,4628,2021-11-05T06:16:21+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Vanessa Knudson <knudson@adobe.com>,3915,2021-11-04T21:24:48-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Vanessa Knudson <knudson@adobe.com>,3232,2021-10-22T14:56:19-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Vanessa Knudson <knudson@adobe.com>,2221,2020-11-10T15:42:14-05:00
+Vanessa Knudson <knudson@adobe.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1967,2020-11-10T20:41:22+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Vanessa Knudson <knudson@adobe.com>,1290,2020-11-10T15:17:24-05:00
+Vanessa Knudson <knudson@adobe.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,834,2020-09-29T20:39:29+00:00
+Sandy Curth <curth@mit.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,8121,2024-05-27T16:56:43+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"Matt Mitros <ed@claystudiosb.org>, Sandy Curth <curth@mit.edu>",7733,2024-05-22T13:00:38-06:00
+Julie Franks <julie@sbcasa.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,7852,2024-05-22T10:01:04-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Julie Franks <julie@sbcasa.com>,6812,2024-05-21T17:43:47-07:00
+Julie Franks <julie@sbcasa.com>,"Jennifer Jacobs <jmjacobs@ucsb.edu>,
+ Ilan Moyer <ilan@theclayworld.com>,
+ Linda Haggerty <lindajanoshaggerty@gmail.com>,
+ JAMES HAGGERTY <haggertyceramics@cox.net>",6229,2024-05-20T15:30:13-07:00
+joey watson <wadupjoeywatson@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,5254,2024-05-09T09:02:58-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Julie Franks <julie@sbcasa.com>,4973,2024-05-08T21:17:52-07:00
+Julie Franks <julie@sbcasa.com>,"Linda Haggerty <lindajanoshaggerty@gmail.com>,
+ ""Joseph (Joey) Watson"" <wadupjoeywatson@gmail.com>",5115,2024-05-08T17:51:53-07:00
+Linda Haggerty <lindajanoshaggerty@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,0,2024-05-08T17:41:13-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Julie Franks <julie@sbcasa.com>,4178,2024-05-08T09:19:14-07:00
+Julie Franks <julie@sbcasa.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3912,2024-05-07T13:58:09-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,joey watson <wadupjoeywatson@gmail.com>,3059,2024-05-07T13:37:41-07:00
+joey watson <wadupjoeywatson@gmail.com>,Julie Franks <julie@sbcasa.com>,2651,2024-05-07T12:02:13-07:00
+Julie Franks <julie@sbcasa.com>,"Linda Haggerty <lindajanoshaggerty@gmail.com>,
+ JAMES HAGGERTY <haggertyceramics@cox.net>,
+ Jennifer Jacobs <jmjacobs@ucsb.edu>",2467,2024-05-07T11:56:16-07:00
+Lynda Weinman <lynda@sbcasa.com>,"Jennifer Jacobs <jmjacobs@ucsb.edu>,
+ Julie Franks <julie@sbcasa.com>",2028,2024-05-06T08:53:57-07:00
+JAMES HAGGERTY <haggertyceramics@cox.net>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, 
+	Linda Haggerty <lindajanoshaggerty@gmail.com>, 
+	joey watson <wadupjoeywatson@gmail.com>, 
+	Lynda Weinman <lynda@sbcasa.com>",2057,2024-05-01T00:07:42+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"Linda Haggerty <lindajanoshaggerty@gmail.com>, JAMES HAGGERTY <haggertyceramics@cox.net>, 
+	joey watson <wadupjoeywatson@gmail.com>, Lynda Weinman <lynda@sbcasa.com>",1673,2024-04-30T15:50:15-07:00
+Devon Frost <dfrost@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,0,2023-11-03T14:00:39-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,,1010,2023-11-03T13:51:50-07:00
+Janet Douglas <janet@mat.ucsb.edu>,Devon Frost <dfrost@ucsb.edu>,580,2023-11-03T13:35:34-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Tobias Hollerer <holl@cs.ucsb.edu>,5602,2025-09-30T13:36:24-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,13299,2025-08-29T14:00:01-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,12636,2025-08-29T13:40:32-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,12169,2025-08-27T10:37:58-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,16410,2025-08-26T14:16:19-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,15682,2025-08-26T13:43:09-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,14935,2025-08-22T15:21:04-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,14406,2025-08-22T14:22:30-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,13644,2025-08-22T10:32:03-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,13184,2025-08-22T09:17:43-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,12258,2025-08-21T10:27:12-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,11243,2025-08-20T15:51:14-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,9885,2025-08-20T11:58:50-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,9032,2025-08-19T16:13:47-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,8502,2025-08-19T15:52:41-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,6821,2025-08-19T15:20:54-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,6340,2025-08-19T14:25:34-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,5402,2025-08-18T14:21:22-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,4399,2025-08-16T10:52:29-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,3521,2025-08-16T10:42:45-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3266,2025-08-13T11:07:23-07:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2784,2025-08-06T13:59:47-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janelle Boesch <jboesch@ucsb.edu>,1223,2025-08-05T19:48:41-04:00
+Janelle Boesch <jboesch@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,825,2025-08-05T14:30:14-07:00
+Haley Cormier <haley.cormier@autodesk.com>,"""rmonteith@arcindustries.co"" <rmonteith@arcindustries.co>,
+	""kmonteith@arcindustries.co"" <kmonteith@arcindustries.co>,
+	""miles@aloft.systems"" <miles@aloft.systems>, ""satchel@aloft.systems""
+	<satchel@aloft.systems>, ""ben@vhbb.org"" <ben@vhbb.org>,
+	""danilo@aloft.systems"" <danilo@aloft.systems>, ""brooke@aloft.systems""
+	<brooke@aloft.systems>, ""zimran@aloft.systems"" <zimran@aloft.systems>,
+	""maddie@aloft.systems"" <maddie@aloft.systems>, ""wohalloran@apeironlabs.com""
+	<wohalloran@apeironlabs.com>, ""kstreitlien@apeironlabs.com""
+	<kstreitlien@apeironlabs.com>, ""adede@apeironlabs.com""
+	<adede@apeironlabs.com>, ""jsugar@apeironlabs.com"" <jsugar@apeironlabs.com>,
+	""rpappu@apeironlabs.com"" <rpappu@apeironlabs.com>,
+	""demitri@apparelrobotics.com"" <demitri@apparelrobotics.com>,
+	""troy@apparelrobotics.com"" <troy@apparelrobotics.com>,
+	""alex@apparelrobotics.com"" <alex@apparelrobotics.com>,
+	""chewei@aureliainstitute.org"" <chewei@aureliainstitute.org>,
+	""jake@cofabdesign.com"" <jake@cofabdesign.com>, ""aaron@cofabdesign.com""
+	<aaron@cofabdesign.com>, ""mcoblent@mit.edu"" <mcoblent@mit.edu>,
+	""max@aureliainstitute.org"" <max@aureliainstitute.org>,
+	""sweta@aureliainstitute.org"" <sweta@aureliainstitute.org>,
+	""ariel@aureliainstitute.org"" <ariel@aureliainstitute.org>,
+	""jmilliken.robotics@gmail.com"" <jmilliken.robotics@gmail.com>,
+	""sharma.sas@gmail.com"" <sharma.sas@gmail.com>,
+	""danielle@aureliainstitute.org"" <danielle@aureliainstitute.org>,
+	""sean@aureliainstitute.org"" <sean@aureliainstitute.org>,
+	""al@aureliainstitute.org"" <al@aureliainstitute.org>,
+	""evan@aureliainstitute.org"" <evan@aureliainstitute.org>,
+	""joseluis.sanchezlopez@uni.lu"" <joseluis.sanchezlopez@uni.lu>,
+	""hriday.bavle@uni.lu"" <hriday.bavle@uni.lu>, ""muhammad.shaheer@uni.lu""
+	<muhammad.shaheer@uni.lu>, ""holger.voos@uni.lu"" <holger.voos@uni.lu>,
+	""research@behnisch.com"" <research@behnisch.com>, ""research@behnisch.com""
+	<research@behnisch.com>, ""research@behnisch.com"" <research@behnisch.com>,
+	""research@behnisch.com"" <research@behnisch.com>, ""research@behnisch.com""
+	<research@behnisch.com>, ""research@behnisch.com"" <research@behnisch.com>,
+	""newton.davinci@gmail.com"" <newton.davinci@gmail.com>,
+	""echou@biome-renewables.com"" <echou@biome-renewables.com>,
+	""ianroy@brandeis.edu"" <ianroy@brandeis.edu>, ""thebert@brandeis.edu""
+	<thebert@brandeis.edu>, ""nconstantine@brandeis.edu""
+	<nconstantine@brandeis.edu>, ""gbuckland@brandeis.edu""
+	<gbuckland@brandeis.edu>, ""ratzlaff@brandeis.edu"" <ratzlaff@brandeis.edu>,
+	""miguelvasquez122@hotmail.com"" <miguelvasquez122@hotmail.com>,
+	""adenisky@buildhealthinternational.org""
+	<adenisky@buildhealthinternational.org>,
+	""vomalley@buildhealthinternational.org""
+	<vomalley@buildhealthinternational.org>,
+	""sheckethorn@buildhealthinternational.org""
+	<sheckethorn@buildhealthinternational.org>,
+	""bhornak@buildhealthinternational.org""
+	<bhornak@buildhealthinternational.org>, ""rkasai@buildhealthinternational.org""
+	<rkasai@buildhealthinternational.org>, ""max@csm.ai"" <max@csm.ai>, ""tk@csm.ai""
+	<tk@csm.ai>, ""jiayi.chong@dconstruct.ai"" <jiayi.chong@dconstruct.ai>,
+	""wenchao.gao@dconstruct.ai"" <wenchao.gao@dconstruct.ai>,
+	""joel.leow@dconstruct.ai"" <joel.leow@dconstruct.ai>,
+	""krittin.kawkeeree@dconstruct.ai"" <krittin.kawkeeree@dconstruct.ai>,
+	""vincent.ngai@dconstruct.ai"" <vincent.ngai@dconstruct.ai>,
+	""wenchao.gao@dconstruct.ai"" <wenchao.gao@dconstruct.ai>,
+	""hazel.kwon@dconstruct.ai"" <hazel.kwon@dconstruct.ai>,
+	""zhikai.li@dconstruct.ai"" <zhikai.li@dconstruct.ai>,
+	""hazel.kuok@dconstruct.group"" <hazel.kuok@dconstruct.group>,
+	""ooyeniyi@dialysisx.com"" <ooyeniyi@dialysisx.com>, ""seongc@dpr.com""
+	<seongc@dpr.com>, ""MalcolmR@dpr.com"" <MalcolmR@dpr.com>, ""stevent@dpr.com""
+	<stevent@dpr.com>, ""michaelda@dpr.com"" <michaelda@dpr.com>,
+	""jnegri@elkus-manfredi.com"" <jnegri@elkus-manfredi.com>,
+	""mshirvani@elkus-manfredi.com"" <mshirvani@elkus-manfredi.com>,
+	""cbiggs@elkus-manfredi.com"" <cbiggs@elkus-manfredi.com>, ""dsa@engora.tech""
+	<dsa@engora.tech>, ""andy@fathom.fishing"" <andy@fathom.fishing>,
+	""will@fathom.fishing"" <will@fathom.fishing>, ""khamaria1.turner@famu.edu""
+	<khamaria1.turner@famu.edu>, Rob Duarte <rduarte@fsu.edu>, ""kabrandt@fsu.edu""
+	<kabrandt@fsu.edu>, ""jlord@fluxmarine.com"" <jlord@fluxmarine.com>,
+	""ben@fluxmarine.com"" <ben@fluxmarine.com>, ""dfrantin@fluxmarine.com""
+	<dfrantin@fluxmarine.com>, ""joseph.spanedda@gmail.com""
+	<joseph.spanedda@gmail.com>, ""lzlotea@fluxmarine.com""
+	<lzlotea@fluxmarine.com>, ""chrisw@f3dscans.com"" <chrisw@f3dscans.com>,
+	""teddyt@f3dscans.com"" <teddyt@f3dscans.com>, ""jules@gencores.com""
+	<jules@gencores.com>, ""james@gencores.com"" <james@gencores.com>,
+	""katelyn.jobes@hilti.com"" <katelyn.jobes@hilti.com>, ""ryan.twomey@hilti.com""
+	<ryan.twomey@hilti.com>, ""jacob.davis@hilti.com"" <jacob.davis@hilti.com>,
+	""gilbert.hall@hilti.com"" <gilbert.hall@hilti.com>, ""andrew.polcari@hilti.com""
+	<andrew.polcari@hilti.com>, ""bugrahan.sirin@hpp.com""
+	<bugrahan.sirin@hpp.com>, ""ibrahim.yildiz@hpp.com"" <ibrahim.yildiz@hpp.com>,
+	""antonino.vultaggio@hpp.com"" <antonino.vultaggio@hpp.com>,
+	""veysel.acikel@hpp.com"" <veysel.acikel@hpp.com>,
+	""paul.richards@machinemetrics.com"" <paul.richards@machinemetrics.com>,
+	""pauline.tanzman@machinemetrics.com"" <pauline.tanzman@machinemetrics.com>,
+	""jake.shin@machinemetrics.com"" <jake.shin@machinemetrics.com>,
+	""tyler.schoppe@machinemetrics.com"" <tyler.schoppe@machinemetrics.com>,
+	""eric.fogg@machinemetrics.com"" <eric.fogg@machinemetrics.com>,
+	""jose@makerhealth.co"" <jose@makerhealth.co>, ""anna@makerhealth.co""
+	<anna@makerhealth.co>, ""brucecrawfordr@gmail.com"" <brucecrawfordr@gmail.com>,
+	""jhyoon7@mit.edu"" <jhyoon7@mit.edu>, ""michaelmacneil4@gmail.com""
+	<michaelmacneil4@gmail.com>, ""scothull@pensole.com"" <scothull@pensole.com>,
+	""kyleplummer@pensole.com"" <kyleplummer@pensole.com>, ""brock@pensole.com""
+	<brock@pensole.com>, ""eustace@pensole.com"" <eustace@pensole.com>,
+	""andy24browne@gmail.com"" <andy24browne@gmail.com>,
+	""hakim.hasan@perkinswill.com"" <hakim.hasan@perkinswill.com>,
+	""aaron.williams@perkinswill.com"" <aaron.williams@perkinswill.com>,
+	""jay.cadwallader@perkinswill.com"" <jay.cadwallader@perkinswill.com>,
+	""sergio.riccardi@perkinswill.com"" <sergio.riccardi@perkinswill.com>,
+	""kimberly.seigel@perkinswill.com"" <kimberly.seigel@perkinswill.com>,
+	""sarah.brophy@perkinswill.com"" <sarah.brophy@perkinswill.com>,
+	""michelle@phoenixtailings.com"" <michelle@phoenixtailings.com>,
+	""elza@rapidliquidprint.co"" <elza@rapidliquidprint.co>,
+	""hesaneh@rapidliquidprint.co"" <hesaneh@rapidliquidprint.co>,
+	""schendy@rapidliquidprint.co"" <schendy@rapidliquidprint.co>,
+	""bjorn@rapidliquidprint.co"" <bjorn@rapidliquidprint.co>,
+	""ariane@rapidliquidprint.co"" <ariane@rapidliquidprint.co>,
+	""forsythe@rapidliquidprint.co"" <forsythe@rapidliquidprint.co>,
+	""steve@rapidliquidprint.co"" <steve@rapidliquidprint.co>, ""turner@re3d.org""
+	<turner@re3d.org>, ""mike.pujols.design@gmail.com""
+	<mike.pujols.design@gmail.com>, ""doug@re3d.org"" <doug@re3d.org>,
+	""jordan@re3d.org"" <jordan@re3d.org>, ""luke@re3d.org"" <luke@re3d.org>,
+	""samantha@re3d.org"" <samantha@re3d.org>, ""matthew@re3d.org""
+	<matthew@re3d.org>, ""charlotte@re3d.org"" <charlotte@re3d.org>,
+	""alessandra@re3d.org"" <alessandra@re3d.org>, ""sham01@risd.edu""
+	<sham01@risd.edu>, ""bcarter@risd.edu"" <bcarter@risd.edu>, ""Reilly, Evan""
+	<Evan.Reilly@skanska.com>, ""brooke.gemmell@skanska.com""
+	<brooke.gemmell@skanska.com>, ""patrick.luckey@skanska.com""
+	<patrick.luckey@skanska.com>, ""greta.baltrusaityte@skanska.com""
+	<greta.baltrusaityte@skanska.com>, ""swathi.kottali@skanska.com""
+	<swathi.kottali@skanska.com>, ""dhughes@smcusa.com"" <dhughes@smcusa.com>,
+	""scott@studio-construction.com"" <scott@studio-construction.com>,
+	""adam@studio-construction.com"" <adam@studio-construction.com>,
+	""keith@studio-construction.com"" <keith@studio-construction.com>,
+	""elizabeth@tarkka.co"" <elizabeth@tarkka.co>, ""michael@tarkka.co""
+	<michael@tarkka.co>, ""elizabeth@tarkka.co"" <elizabeth@tarkka.co>,
+	""michael@tarkka.co"" <michael@tarkka.co>, ""jgalloway@thorntontomasetti.com""
+	<jgalloway@thorntontomasetti.com>, ""vgluzov@thorntontomasetti.com""
+	<vgluzov@thorntontomasetti.com>, ""frankm@ugogo3d.com"" <frankm@ugogo3d.com>,
+	""zakv@ugogo3d.com"" <zakv@ugogo3d.com>, ""stevenr@ugogo3d.com""
+	<stevenr@ugogo3d.com>, ""jrmaggio14@icloud.com"" <jrmaggio14@icloud.com>,
+	""jmjacobs@ucsb.edu"" <jmjacobs@ucsb.edu>, ""samuellebourgault@ucsb.edu""
+	<samuellebourgault@ucsb.edu>, ""gabriele@mindeskvr.com""
+	<gabriele@mindeskvr.com>, ""dtavares@ybboston.org"" <dtavares@ybboston.org>,
+	""echowdhury@ybboston.org"" <echowdhury@ybboston.org>, ""ndaniel@ybboston.org""
+	<ndaniel@ybboston.org>, ""npolk@ybboston.org"" <npolk@ybboston.org>,
+	""dbaylor@ybboston.org"" <dbaylor@ybboston.org>, ""krichardson@ybboston.org""
+	<krichardson@ybboston.org>, ""dsmith@ybboston.org"" <dsmith@ybboston.org>,
+	""llavache@ybboston.org"" <llavache@ybboston.org>, ""trumbourr@wit.edu""
+	<trumbourr@wit.edu>, ""faulkner@hiparktech.com"" <faulkner@hiparktech.com>,
+	""smith@hiparktech.com"" <smith@hiparktech.com>, ""borger@hiparktech.com""
+	<borger@hiparktech.com>, ""dehnavi@hiparktech.com"" <dehnavi@hiparktech.com>,
+	""altman@west-work.com"" <altman@west-work.com>, ""ettori@hiparktech.com""
+	<ettori@hiparktech.com>, ""cmeurer@windover.com"" <cmeurer@windover.com>,
+	""aandersen@windover.com"" <aandersen@windover.com>, Amr Raafat
+	<araafat@windover.com>, ""ccollucci@windover.com"" <ccollucci@windover.com>,
+	""stuart@windover.com"" <stuart@windover.com>, ""y_hoshi@ykkap.co.jp""
+	<y_hoshi@ykkap.co.jp>,
+	=?iso-2022-jp?B?GyRCPSk7MxsoQiAbJEJDaTVXGyhCQUtJWUFNQSBUQURBSElTQQ==?=
+	<Tadahisa.Akiyama@xtechlab.ykkap.com>",4608,2023-05-25T13:42:13+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Nour Arafat <nour.arafat@protonmail.com>,12054,2025-09-05T20:53:25+00:00
+Nour Arafat <nour.arafat@protonmail.com>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",12223,2025-06-27T15:57:17+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Nour Arafat <nour.arafat@protonmail.com>,11219,2025-06-03T15:56:45+00:00
+Nour Arafat <nour.arafat@protonmail.com>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",11055,2025-06-03T01:50:12+00:00
+Nour Arafat <nour.arafat@protonmail.com>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",10522,2025-05-11T03:28:06+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Nour Arafat <nour.arafat@protonmail.com>,9431,2025-05-10T17:54:22+00:00
+Nour Arafat <nour.arafat@protonmail.com>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",9209,2025-04-09T00:53:46+00:00
+Nour Arafat <nour.arafat@protonmail.com>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",6303,2025-04-07T17:02:14+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Nour Arafat <nour.arafat@protonmail.com>,5733,2025-04-06T02:32:13+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Nour Arafat <nour.arafat@protonmail.com>,5075,2025-04-04T06:46:06+00:00
+Nour Arafat <nour.arafat@protonmail.com>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",4152,2025-04-02T22:21:27+00:00
+Nour Arafat <nour.arafat@protonmail.com>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",3303,2025-04-01T13:59:44+00:00
+Nour Arafat <nour.arafat@protonmail.com>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",3037,2025-03-26T21:23:17+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Nour Arafat <nour.arafat@protonmail.com>,2934,2025-03-26T21:21:19+00:00
+Nour Arafat <nour.arafat@protonmail.com>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",2533,2025-03-26T21:19:34+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","Nour Arafat <nour.arafat@protonmail.com>, Wesley Taylor <westiv@gmail.com>",2318,2025-03-24T20:07:21+00:00
+"""Strategic Research Initiatives"" <funding@research.ucsb.edu>",jmjacobs@ucsb.edu,3442,2023-07-17T21:00:06
+Nadya Peek <nadya@uw.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2754,2025-02-19T09:15:05-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"Nadya Peek <nadya@uw.edu>, Emily Whiting <whiting@bu.edu>, Mackenzie Leake <leake@adobe.com>, 
+	Hannah Twigg-Smith <htwiggsmith@gmail.com>",2195,2025-02-18T13:21:08-08:00
+Emily Whiting <whiting@bu.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2617,2025-02-18T14:47:08-05:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Emily Whiting <whiting@bu.edu>,2427,2025-02-18T11:45:01-08:00
+Emily Whiting <whiting@bu.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2194,2025-02-18T14:41:59-05:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Hannah Twigg-Smith <htwiggsmith@gmail.com>,2555,2025-02-18T10:01:16-08:00
+Hannah Twigg-Smith <htwiggsmith@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2368,2025-02-18T12:57:21-05:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Mackenzie Leake <leake@adobe.com>,3036,2025-02-17T09:42:53-08:00
+Mackenzie Leake <leake@adobe.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2672,2025-02-15T00:26:41+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"Nadya Peek <nadya@uw.edu>, Emily Whiting <whiting@bu.edu>, Mackenzie Leake <leake@adobe.com>, 
+	Hannah Twigg-Smith <htwiggsmith@gmail.com>",1878,2025-02-11T21:15:41-08:00
+Molly Morin <mollymorin@weber.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3295,2020-09-15T14:10:51-04:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,mollymorin@weber.edu,1690,2020-09-11T20:59:32-07:00
+Alexandra Grigore <alexandragrigore@ucsb.edu>,"""Acebo, Erma"" <eacebo@tft.ucla.edu>",16854,2024-03-13T09:28:29-07:00
+"""Acebo, Erma"" <eacebo@tft.ucla.edu>",Alexandra Grigore <alexandragrigore@ucsb.edu>,16674,2024-03-13T16:23:48+00:00
+"""Acebo, Erma"" <eacebo@tft.ucla.edu>",Alexandra Grigore <alexandragrigore@ucsb.edu>,15948,2024-03-05T20:48:18+00:00
+Alexandra Grigore <alexandragrigore@ucsb.edu>,"""Acebo, Erma"" <eacebo@tft.ucla.edu>",17367,2024-03-05T08:30:48-08:00
+"""Acebo, Erma"" <eacebo@tft.ucla.edu>",Jennifer Jacobs <jmjacobs@ucsb.edu>,14656,2024-02-16T18:19:16+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,kennedyknight@cs.ucsb.edu,15999,2024-02-16T09:53:04-08:00
+kennedyknight@cs.ucsb.edu,Jennifer Jacobs <jmjacobs@ucsb.edu>,15256,2024-02-16T09:51:16-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,kennedyknight@cs.ucsb.edu,14391,2024-02-16T09:47:06-08:00
+kennedyknight@cs.ucsb.edu,"""Acebo, Erma"" <eacebo@tft.ucla.edu>",13623,2024-02-16T09:42:09-08:00
+Megan Ober <Ober@research.ucsb.edu>,kennedyknight@cs.ucsb.edu,18841,2024-02-16T09:40:41-08:00
+kennedyknight@cs.ucsb.edu,Megan Ober <Ober@research.ucsb.edu>,17950,2024-02-16T09:39:26-08:00
+Megan Ober <Ober@research.ucsb.edu>,kennedyknight@cs.ucsb.edu,17067,2024-02-16T09:31:28-08:00
+kennedyknight@cs.ucsb.edu,Megan Ober <Ober@research.ucsb.edu>,15819,2024-02-16T09:25:26-08:00
+Megan Ober <Ober@research.ucsb.edu>,Alexandra Grigore <alexandragrigore@ucsb.edu>,14770,2024-02-15T16:43:45-08:00
+Alexandra Grigore <alexandragrigore@ucsb.edu>,"""Acebo, Erma"" <eacebo@tft.ucla.edu>",13749,2024-02-15T16:26:44-08:00
+"""Acebo, Erma"" <eacebo@tft.ucla.edu>","Alexandra Grigore <alexandragrigore@ucsb.edu>, ""Burke, Jeff""
+	<jburke@remap.ucla.edu>",13022,2024-02-16T00:21:50+00:00
+"""Acebo, Erma"" <eacebo@tft.ucla.edu>","Alexandra Grigore <alexandragrigore@ucsb.edu>, ""Burke, Jeff""
+	<jburke@remap.ucla.edu>",12280,2024-02-15T23:14:07+00:00
+Alexandra Grigore <alexandragrigore@ucsb.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",11804,2024-02-15T15:05:40-08:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","Alexandra Grigore <alexandragrigore@ucsb.edu>, Jennifer Jacobs
+	<jmjacobs@ucsb.edu>",10837,2024-02-15T16:50:01+00:00
+Alexandra Grigore <alexandragrigore@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,11243,2024-01-12T13:09:50-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Alexandra Grigore <alexandragrigore@ucsb.edu>,10234,2024-01-12T13:05:17-08:00
+Alexandra Grigore <alexandragrigore@ucsb.edu>,"""Acebo, Erma"" <eacebo@tft.ucla.edu>",9612,2024-01-12T13:00:26-08:00
+"""Acebo, Erma"" <eacebo@tft.ucla.edu>","""Burke, Jeff"" <jburke@remap.ucla.edu>",8105,2024-01-12T20:14:57+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""Acebo, Erma"" <eacebo@tft.ucla.edu>",7281,2024-01-12T19:03:52+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""chaitan.baru@gmail.com"" <chaitan.baru@gmail.com>",7599,2023-12-15T23:21:59+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",8858,2023-12-15T08:59:34+09:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Jennifer Jacobs <jmjacobs@ucsb.edu>,7746,2023-12-14T23:59:01+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",8739,2023-12-15T08:20:45+09:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",7573,2023-12-15T08:18:52+09:00
+Lauren Lee McCarthy <lmccart@ucla.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",8720,2023-12-14T11:04:59-08:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""Pottie, Greg"" <pottie@ee.ucla.edu>, Chris Johanson <johanson@ucla.edu>,
+	""Mccarthy, Lauren"" <lmccart@ucla.edu>, Jennifer Jacobs <jmjacobs@ucsb.edu>",7392,2023-12-14T16:58:12+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""`chaitan.baru@gmail.com"" <`chaitan.baru@gmail.com>",7597,2023-12-14T16:56:23+00:00
+dpmcenru@nsf.gov,awards@research.ucla.edu,23827,2023-12-14T16:10:24+00:00
+NCECA HQ Office <postmaster@american-tradeshow.com>,jmjacobs@ucsb.edu,14109,2025-03-24T10:30:19+00:00
+Rgov-No-Reply@nsf.gov,jmjacobs@ucsb.edu,1123,2023-10-06T01:49:40+00:00
+Julie Dunson <jdunson@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1182,2024-03-29T08:06:07-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Julie Dunson <jdunson@ucsb.edu>,880,2024-03-28T16:36:19-07:00
+Julie Dunson <jdunson@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,686,2024-03-28T12:05:59-07:00
+Julie Dunson <jdunson@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,330,2024-03-28T12:03:31-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",26206,2023-07-13T10:01:17-04:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","Chris Johanson <johanson@ucla.edu>, ""Presner, Todd""
+	<presner@humnet.ucla.edu>, ""Pottie, Greg"" <pottie@ee.ucla.edu>, Jennifer
+ Jacobs <jmjacobs@ucsb.edu>, ""Mccarthy, Lauren"" <lmccart@ucla.edu>,
+	""laurenleemccarthy@gmail.com"" <laurenleemccarthy@gmail.com>, ""Johanson,
+ Christopher (FWD)"" <johanson@g.ucla.edu>",23302,2023-07-12T23:52:12+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jeffrey Stewart <jcstew@ucsb.edu>,8202,2021-12-31T11:26:01-08:00
+Jeffrey Stewart <jcstew@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,6114,2021-12-31T09:30:12-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jeffrey Stewart <jcstew@ucsb.edu>,6043,2021-12-31T08:56:56-08:00
+Jeffrey Stewart <jcstew@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,5539,2021-12-30T21:58:10-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jeffrey Stewart <jstewart@blackstudies.ucsb.edu>,5506,2021-12-30T19:30:06-08:00
+Jeffrey Stewart <jstewart@blackstudies.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,4936,2021-12-22T08:32:46-08:00
+Jeffrey Stewart <jstewart@blackstudies.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3231,2021-12-12T16:15:09-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jeffrey Stewart <jeffrey.stewart@ucsb.edu>,1169,2021-12-10T17:50:27-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Eva Deloa <deloa@cnsi.ucsb.edu>,4711,2021-01-06T21:29:00-08:00
+Eva Deloa <deloa@cnsi.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,4105,2021-01-05T11:17:17-08:00
+Tim Pozar <pozar@amw.org>,"""amw50-announcements@amw.org"" <amw50-announcements@amw.org>",1405,2024-04-22T13:27:25-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jayleen Li <jayleenli17@gmail.com>,2444,2022-04-28T19:06:54-07:00
+Jayleen Li <jayleenli17@gmail.com>,jmjacobs@ucsb.edu,2016,2022-04-28T22:01:17-04:00
+"""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>","""Burke, Jeff"" <jburke@remap.ucla.edu>, Jason Leigh <leighj@hawaii.edu>",3183,2024-06-19T19:44:25+00:00
+Jason Leigh <leighj@hawaii.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",0,2024-06-19T13:51:56-05:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","Jason Leigh <leighj@hawaii.edu>, ""Sorkhabi, Elburz""
+	<elburz@remap.ucla.edu>",2237,2024-06-19T03:53:46+00:00
+Jason Leigh <leighj@hawaii.edu>,"""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>",1220,2024-06-17T23:25:42-04:00
+"""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>","Marcus N Hayden <marcush@hawaii.edu>, Jason Leigh <leighj@hawaii.edu>",532,2024-06-17T17:52:17+00:00
+Jason Leigh <leighj@hawaii.edu>,Marcus N Hayden <marcush@hawaii.edu>,27372,2024-06-11T07:19:49-10:00
+Marcus N Hayden <marcush@hawaii.edu>,Jason Leigh <leighj@hawaii.edu>,22929,2024-06-10T15:28:12-10:00
+Jason Leigh <leighj@hawaii.edu>,"Marcus N Hayden <marcush@hawaii.edu>,
+        ""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>",24837,2024-06-10T13:49:47-10:00
+Jason Leigh <leighj@hawaii.edu>,"Marcus N Hayden <marcush@hawaii.edu>,
+        ""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>",23996,2024-06-06T21:11:43+02:00
+"""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>",Jason Leigh <leighj@hawaii.edu>,20862,2024-06-04T21:08:48+00:00
+Jason Leigh <leighj@hawaii.edu>,"""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>",22424,2024-06-04T20:07:42+02:00
+"""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>","Jason Leigh <leighj@hawaii.edu>, Marcus N Hayden <marcush@hawaii.edu>",19517,2024-06-04T00:24:57+00:00
+"""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>","Jason Leigh <leighj@hawaii.edu>, Marcus N Hayden <marcush@hawaii.edu>",18734,2024-05-30T01:06:47+00:00
+Marcus N Hayden <marcush@hawaii.edu>,Jason Leigh <leighj@hawaii.edu>,18154,2024-05-28T13:51:49-10:00
+Jason Leigh <leighj@hawaii.edu>,"""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>,
+        Marcus N Hayden <marcush@hawaii.edu>",18899,2024-05-28T18:32:53-04:00
+"""Sorkhabi, Elburz"" <elburz@remap.ucla.edu>","""Burke, Jeff"" <jburke@remap.ucla.edu>, Jason Leigh <leighj@hawaii.edu>",16899,2024-05-28T20:33:35+00:00
+Jason Leigh <leighj@hawaii.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",16385,2024-05-24T11:31:41-10:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Jason Leigh <leighj@hawaii.edu>,14109,2024-05-24T21:26:38+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Jason Leigh <leighj@hawaii.edu>,13353,2024-05-24T19:52:43+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Jason Leigh <leighj@hawaii.edu>,12088,2024-05-24T00:16:58+00:00
+Jason Leigh <leighj@hawaii.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",11683,2024-05-23T14:10:34-10:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Jason Leigh <leighj@hawaii.edu>,6228,2024-05-23T21:21:45+00:00
+Jason Leigh <leighj@hawaii.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",5747,2024-05-23T11:17:25-10:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>",Jason Leigh <leighj@hawaii.edu>,4349,2024-05-23T04:09:47+00:00
+Jason Leigh <leighj@hawaii.edu>,"""Burke, Jeff"" <jburke@remap.ucla.edu>",3536,2024-05-22T14:38:13-10:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""leighj@hawaii.edu"" <leighj@hawaii.edu>",2278,2024-05-21T16:02:34+00:00
+Rgov-No-Reply@nsf.gov,jmjacobs@mat.ucsb.edu,1129,2023-09-24T20:40:41+00:00
+Lisa Thwing <lthwing@ucsb.edu>,"core-faculty@lists.mat.ucsb.edu, staff@mat.ucsb.edu",3124,2023-01-12T14:33:34-08:00
+NoReply@Support.Alliant.com,jmjacobs@ucsb.edu,1047,2023-02-22T18:18:28+00:00
+Funding Alert from Pivot-RP <pivot-no-reply@proquest.com>,jmjacobs@ucsb.edu,10284,2025-09-07T07:53:59+00:00
+Natalie Conn - IMA <imamfaassistant@gmail.com>,IMA MFA <imamfaassistant@gmail.com>,2427,2025-02-07T09:15:51-05:00
+Marko Peljhan <peljhan@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,7404,2022-02-07T21:06:53+01:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Marko Peljhan <peljhan@ucsb.edu>,7039,2022-02-07T07:03:27-08:00
+Marko Peljhan <peljhan@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,5349,2022-02-07T07:31:10+01:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Marko Peljhan <peljhan@ucsb.edu>,4276,2022-02-04T10:16:26-08:00
+klips@nsf.gov,jmjacobs@ucsb.edu,1959,2023-06-22T16:59:48+00:00
+=?UTF-8?Q?ECL_Workspace?= <notifications@tasks.clickup.com>,jmjacobs@ucsb.edu,14117,2022-01-13T15:22:22+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""Baru, Chaitanya K."" <cbaru@nsf.gov>, Jennifer Jacobs <jmjacobs@ucsb.edu>",16338,2024-01-14T20:09:43+00:00
+"""Baru, Chaitanya K."" <cbaru@nsf.gov>","""Burke, Jeff"" <jburke@remap.ucla.edu>, Jennifer Jacobs <jmjacobs@ucsb.edu>",15446,2024-01-14T14:59:02+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""Baru, Chaitanya K."" <cbaru@nsf.gov>, Jennifer Jacobs <jmjacobs@ucsb.edu>",14560,2024-01-13T19:52:58+00:00
+"""Baru, Chaitanya K."" <cbaru@nsf.gov>","""Burke, Jeff"" <jburke@remap.ucla.edu>, Jennifer Jacobs <jmjacobs@ucsb.edu>",14038,2024-01-12T13:06:25+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""Baru, Chaitanya K."" <cbaru@nsf.gov>, Jennifer Jacobs <jmjacobs@ucsb.edu>",13628,2024-01-10T18:00:16+00:00
+"""Baru, Chaitanya K."" <cbaru@nsf.gov>","""Burke, Jeff"" <jburke@remap.ucla.edu>, Jennifer Jacobs <jmjacobs@ucsb.edu>",11341,2023-12-05T14:19:09+00:00
+"""Baru, Chaitanya K."" <cbaru@nsf.gov>","""Burke, Jeff"" <jburke@remap.ucla.edu>, Jennifer Jacobs <jmjacobs@ucsb.edu>",8414,2023-12-01T20:48:11+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""Baru, Chaitanya K."" <cbaru@nsf.gov>, Jennifer Jacobs <jmjacobs@ucsb.edu>",8114,2023-12-01T19:18:28+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""Baru, Chaitanya K."" <cbaru@nsf.gov>, Jennifer Jacobs <jmjacobs@ucsb.edu>",7749,2023-12-01T19:16:42+00:00
+"""Baru, Chaitanya K."" <cbaru@nsf.gov>","""Burke, Jeff"" <jburke@remap.ucla.edu>, Jennifer Jacobs <jmjacobs@ucsb.edu>",4139,2023-12-01T14:07:17+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""Baru, Chaitanya K."" <cbaru@nsf.gov>, Jennifer Jacobs <jmjacobs@ucsb.edu>",3524,2023-12-01T07:10:06+00:00
+"""Baru, Chaitanya K."" <cbaru@nsf.gov>","""Burke, Jeff"" <jburke@remap.ucla.edu>, Jennifer Jacobs <jmjacobs@ucsb.edu>",2966,2023-11-30T17:58:04+00:00
+"""Burke, Jeff"" <jburke@remap.ucla.edu>","""Baru, Chaitanya K."" <cbaru@nsf.gov>, Jennifer Jacobs <jmjacobs@ucsb.edu>",2444,2023-11-30T17:10:34+00:00
+"""Baru, Chaitanya K."" <cbaru@nsf.gov>","""Burke, Jeff"" <jburke@remap.ucla.edu>, Jennifer Jacobs <jmjacobs@ucsb.edu>",1489,2023-11-29T22:18:19+00:00
+Manuel Montoya <mrmonto@unm.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3665,2023-07-25T19:08:24+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Manuel Montoya <mrmonto@unm.edu>,3265,2023-07-25T12:07:27-07:00
+Manuel Montoya <mrmonto@unm.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2936,2023-07-25T19:06:06+00:00
+Natasha <n.menulis@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2078,2023-07-20T12:59:38-07:00
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>,jmjacobs@ucsb.edu,516,2023-07-20T09:46:59-07:00
+Michelle Sakai-Hart <sakaihartsandcrafts@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,0,2023-07-19T17:14:08-07:00
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>,jmjacobs@ucsb.edu,581,2023-07-19T11:34:23-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,carole paddock <cromwellpaddock@gmail.com>,2352,2023-07-19T07:33:42-07:00
+carole paddock <cromwellpaddock@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1882,2023-07-19T06:21:17-07:00
+Mail Delivery Subsystem <mailer-daemon@googlemail.com>,jmjacobs@ucsb.edu,581,2023-07-18T11:21:51-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Manuel Montoya <mrmonto@unm.edu>,2420,2023-07-17T20:07:08-07:00
+Manuel Montoya <mrmonto@unm.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1996,2023-07-18T02:42:40+00:00
+Manuel Montoya <mrmonto@unm.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1995,2023-07-18T02:42:16+00:00
+LINDA HAGGERTY <haggertyceramics@cox.net>,Jennifer Jacobs <jmjacobs@ucsb.edu>,10506,2023-07-17T17:22:31-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,LINDA HAGGERTY <haggertyceramics@cox.net>,2342,2023-07-17T16:39:51-07:00
+LINDA HAGGERTY <haggertyceramics@cox.net>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, Leah Buechley <buechley@unm.edu>,
+	Manuel Montoya <mrmonto@unm.edu>",8965,2023-07-17T16:16:48-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Staci Curry <staci@yogadance.us>,2193,2023-07-17T11:36:15-07:00
+Staci Curry <staci@yogadance.us>,Jennifer Jacobs <jmjacobs@ucsb.edu>,0,2023-07-17T11:32:33-07:00
+Julka Ossola <julkaossola@gmail.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1949,2023-07-17T10:49:30-07:00
+Manuel Montoya <mrmonto@unm.edu>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, Leah Buechley <buechley@unm.edu>",2075,2023-07-17T16:41:20+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"Leah Buechley <buechley@unm.edu>, Manuel Montoya <mrmonto@unm.edu>",1494,2023-07-17T09:39:23-07:00
+"""Ehsan Sayyad via DocuSign"" <dse_NA3@docusign.net>","""Jennifer Jacobs"" <jmjacobs@ucsb.edu>",2042,2023-01-04T14:02:45-08:00
+Janet Douglas <janet@mat.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1712,2025-08-21T08:16:55-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Janet Douglas <janet@mat.ucsb.edu>,1413,2025-08-20T15:53:52-07:00
+Janet Douglas <janet@mat.ucsb.edu>,Jennifer Jacobs <jmjacobs@mat.ucsb.edu>,983,2025-08-18T13:00:03-07:00
+OTL Announcements <announcements@otl.ucsb.edu>,OTL Announcements <announcements@otl.ucsb.edu>,1030,2025-10-20T15:21:53-07:00
+"""Medina-Borja, Alexandra"" <amedinab@nsf.gov>","""jmjacobs@ucsb.edu"" <jmjacobs@ucsb.edu>",3333,2023-10-12T17:35:27+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Chris Miller <chris@patongroup.com>,4456,2022-02-14T12:58:56-08:00
+Chris Miller <chris@patongroup.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3395,2022-02-03T00:26:33+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Chris Miller <chris@patongroup.com>,2222,2022-02-02T15:27:59-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Marko Peljhan <peljhan@ucsb.edu>,4776,2022-01-27T11:29:17-08:00
+Janet Douglas <janet@mat.ucsb.edu>,Jennifer Jacobs <jmjacobs@mat.ucsb.edu>,2550,2022-01-26T11:23:32-08:00
+Marko Peljhan <peljhan@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3513,2022-01-26T19:57:13+01:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Marko Peljhan <peljhan@ucsb.edu>,2794,2022-01-26T10:54:00-08:00
+Chris Miller <chris@patongroup.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1734,2022-01-26T18:39:37+00:00
+Sheryl Montoya <smontoya@cs.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,6330,2023-09-08T08:47:00-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Sheryl Montoya <smontoya@cs.ucsb.edu>,5785,2023-09-08T08:46:17-07:00
+Sheryl Montoya <smontoya@cs.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,5320,2023-09-07T08:43:18-07:00
+Sheryl Montoya <smontoya@cs.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1985,2023-09-07T08:42:44-07:00
+Sheryl Montoya <smontoya@cs.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1384,2023-08-23T09:29:15-07:00
+Sheryl Montoya <smontoya@cs.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,4732,2023-08-23T09:21:08-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,personnel@cs.ucsb.edu,942,2023-08-22T21:10:39-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Sheryl Montoya <smontoya@cs.ucsb.edu>,3877,2023-08-22T20:57:43-07:00
+Sheryl Montoya <smontoya@cs.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3180,2023-08-22T15:15:45-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Sheryl Montoya <smontoya@cs.ucsb.edu>,2337,2023-08-18T12:17:27-07:00
+Sheryl Montoya <smontoya@cs.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1129,2023-08-18T08:55:22-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,personnel@cs.ucsb.edu,545,2023-08-17T15:07:57-07:00
+Yaremi Horrigan <yaremi@ucsb.edu>,hfa-allfaculty@ltsc.ucsb.edu,1033,2025-06-12T14:50:49-07:00
+Lisa Rodriguez <lisa_rodriguez@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,466,2022-02-24T10:29:12-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Lisa Rodriguez <lisa_rodriguez@ucsb.edu>,4214,2022-02-23T17:53:25-08:00
+Lisa Rodriguez <lisa_rodriguez@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3366,2022-02-04T08:38:42-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Lisa Rodriguez <lisa_rodriguez@ucsb.edu>,3180,2022-02-02T09:54:16-08:00
+Lisa Rodriguez <lisa_rodriguez@ucsb.edu>,jmjacobs@ucsb.edu,2434,2022-02-02T08:58:48-08:00
+Lisa Rodriguez <lisa_rodriguez@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2018,2021-12-10T13:11:35-08:00
+"""tapsadmin@aptaracorp.awsapps.com"" <tapsadmin@aptaracorp.awsapps.com>",jmjacobs@ucsb.edu,1821,2023-01-20T12:14:53+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Mahnaz El-Kouedi <mahy@media.mit.edu>,4079,2025-01-27T10:54:54-08:00
+Mahnaz El-Kouedi <mahy@media.mit.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3801,2025-01-27T12:32:26-05:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Mahnaz El-Kouedi <mahy@media.mit.edu>,2390,2025-01-24T16:17:33-08:00
+Mahnaz El-Kouedi <mahy@media.mit.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1809,2025-01-24T17:05:19-05:00
+NYT Cooking <nytdirect@nytimes.com>,jmjacobs@ucsb.edu,59585,2025-03-14T15:01:45+00:00
+opensourcearts contributorsconference <opensourceartcc@gmail.com>,opensourcearts contributorsconference <opensourceartcc@gmail.com>,2544,2024-04-01T21:27:30-06:00
+Emily Boone <emily_boone@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,3961,2023-08-17T14:01:57-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Emily Boone <emily_boone@ucsb.edu>,3382,2023-08-17T13:43:44-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Emily Boone <emily_boone@ucsb.edu>,3123,2023-08-17T09:38:50-07:00
+Emily Boone <emily_boone@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,2907,2023-08-17T09:31:20-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Emily Boone <emily_boone@ucsb.edu>,2239,2023-08-17T09:29:42-07:00
+Emily Boone <emily_boone@ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,1901,2023-08-17T09:23:53-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Dane Venaas <danevenaas@yahoo.com>,1206,2023-08-16T17:50:23-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Dane Venaas <danevenaas@yahoo.com>,607,2023-08-16T16:46:41-07:00
+The New York Times <nytdirect@nytimes.com>,jmjacobs@ucsb.edu,84461,2020-03-16T18:44:02-04:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jenna Nakano <nakano@tia.ucsb.edu>,26280,2023-02-28T09:08:35-08:00
+Jenna Nakano <nakano@tia.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,24722,2023-02-27T19:30:55-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jenna Nakano <nakano@tia.ucsb.edu>,26195,2023-02-23T11:05:23-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jenna Nakano <nakano@tia.ucsb.edu>,25146,2023-02-17T17:18:40-08:00
+Jenna Nakano <nakano@tia.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,23300,2023-02-17T16:32:40-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jenna Nakano <nakano@tia.ucsb.edu>,22755,2023-02-16T19:57:04-08:00
+Jenna Nakano <nakano@tia.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,21176,2023-02-16T19:27:40-08:00
+Jenna Nakano <nakano@tia.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,20580,2023-02-15T12:43:54-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jenna Nakano <nakano@tia.ucsb.edu>,22126,2023-02-15T11:13:56-08:00
+Jenna Nakano <nakano@tia.ucsb.edu>,Jennifer Jacobs <jmjacobs@ucsb.edu>,19365,2023-02-15T09:40:50-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jenna Nakano <nakano@tia.ucsb.edu>,19570,2023-02-08T21:08:24-08:00
+Jenna Nakano <nakano@tia.ucsb.edu>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, Denise McCarty <denise.mccarty@autodesk.com>",18165,2023-01-27T08:51:57-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Jenna Nakano <nakano@tia.ucsb.edu>,19681,2023-01-25T10:42:56-08:00
+Jenna Nakano <nakano@tia.ucsb.edu>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, Kevin Stewart <kstewart@ucsb.edu>",18553,2023-01-25T09:53:31-08:00
+Jenna Nakano <nakano@tia.ucsb.edu>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, Denise McCarty <denise.mccarty@autodesk.com>",17404,2023-01-25T09:35:23-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Kevin Stewart <kstewart@ucsb.edu>,18968,2023-01-24T12:45:30-08:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Denise McCarty <denise.mccarty@autodesk.com>,17318,2023-01-24T12:40:00-08:00
+Denise McCarty <denise.mccarty@autodesk.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,16992,2023-01-24T20:29:01+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Denise McCarty <denise.mccarty@autodesk.com>,15003,2023-01-23T12:57:38-08:00
+Denise McCarty <denise.mccarty@autodesk.com>,Jennifer Jacobs <jmjacobs@ucsb.edu>,14943,2023-01-18T22:15:01+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,"Denise McCarty <denise.mccarty@autodesk.com>, 
+	Gabrielle Patin <gabrielle.patin@autodesk.com>",14071,2023-01-17T13:33:36-08:00
+Denise McCarty <denise.mccarty@autodesk.com>,Kevin Stewart <kstewart@ucsb.edu>,13714,2022-11-18T14:46:33+00:00
+Kevin Stewart <kstewart@ucsb.edu>,Athena Moore <athena.moore@autodesk.com>,11591,2022-11-17T18:46:46-08:00
+Athena Moore <athena.moore@autodesk.com>,"Jennifer Jacobs <jmjacobs@ucsb.edu>, Gabrielle Patin
+	<gabrielle.patin@autodesk.com>",9504,2022-11-02T13:24:03+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Gabrielle Patin <gabrielle.patin@autodesk.com>,8126,2022-11-01T15:59:45-07:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Gabrielle Patin <gabrielle.patin@autodesk.com>,7031,2022-11-01T14:37:59-07:00
+Gabrielle Patin <gabrielle.patin@autodesk.com>,Kevin Stewart <stewart@tia.ucsb.edu>,6172,2022-11-01T18:56:28+00:00
+Jennifer Jacobs <jmjacobs@ucsb.edu>,Gabrielle Patin <gabrielle.patin@autodesk.com>,5335,2022-10-19T20:37:32-07:00
+Gabrielle Patin <gabrielle.patin@autodesk.com>,Kevin Stewart <stewart@tia.ucsb.edu>,4959,2022-10-18T23:06:06+00:00

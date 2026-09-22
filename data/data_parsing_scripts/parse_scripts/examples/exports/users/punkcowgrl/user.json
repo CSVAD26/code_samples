@@ -1,0 +1,147 @@
+{
+  "username": "punkcowgrl",
+  "url": "https://letterboxd.com/punkcowgrl",
+  "id": 4279919,
+  "is_hq": false,
+  "display_name": "punkcowgrl",
+  "bio": "Bella\ud83e\udeb6 Anishinaabekwe, chemist, cat lover\u00a0 Connoisseur of horror (mostly the bad variety), practical effects, and animated movies \ud83d\ude46\u200d\u2640\ufe0f\ud83e\udeb2\ud83d\udda4",
+  "location": null,
+  "website": "https://twitter.com/ChemicalCowgrl",
+  "watchlist_length": 668,
+  "stats": {
+    "films": 1008,
+    "this_year": 154,
+    "lists": 20,
+    "following": 126,
+    "followers": 893
+  },
+  "favorites": {
+    "46964": {
+      "slug": "scooby-doo",
+      "name": "Scooby-Doo",
+      "url": "https://letterboxd.com/film/scooby-doo/",
+      "year": 2002,
+      "log_url": "https://letterboxd.com/punkcowgrl/film/scooby-doo/reviews/"
+    },
+    "49455": {
+      "slug": "scream",
+      "name": "Scream",
+      "url": "https://letterboxd.com/film/scream/",
+      "year": 1996,
+      "log_url": "https://letterboxd.com/punkcowgrl/film/scream/reviews/"
+    },
+    "51195": {
+      "slug": "dog-day-afternoon",
+      "name": "Dog Day Afternoon",
+      "url": "https://letterboxd.com/film/dog-day-afternoon/",
+      "year": 1975,
+      "log_url": "https://letterboxd.com/punkcowgrl/film/dog-day-afternoon/1/"
+    },
+    "51225": {
+      "slug": "gremlins-2-the-new-batch",
+      "name": "Gremlins 2: The New Batch",
+      "url": "https://letterboxd.com/film/gremlins-2-the-new-batch/",
+      "year": 1990,
+      "log_url": "https://letterboxd.com/punkcowgrl/film/gremlins-2-the-new-batch/reviews/"
+    }
+  },
+  "avatar": {
+    "exists": true,
+    "upscaled": true,
+    "url": "https://a.ltrbxd.com/resized/avatar/upload/4/2/7/9/9/1/9/shard/avtr-0-1000-0-1000-crop.jpg"
+  },
+  "recent": {
+    "watchlist": {
+      "1127005": {
+        "id": "1127005",
+        "slug": "cloud-2024",
+        "name": "Cloud",
+        "year": 2024
+      },
+      "45435": {
+        "id": "45435",
+        "slug": "the-howling",
+        "name": "The Howling",
+        "year": 1981
+      },
+      "34576": {
+        "id": "34576",
+        "slug": "lake-mungo",
+        "name": "Lake Mungo",
+        "year": 2008
+      },
+      "62709": {
+        "id": "62709",
+        "slug": "percy-jackson-sea-of-monsters",
+        "name": "Percy Jackson: Sea of Monsters",
+        "year": 2013
+      },
+      "16840": {
+        "id": "16840",
+        "slug": "the-big-shave",
+        "name": "The Big Shave",
+        "year": 1967
+      }
+    },
+    "diary": {
+      "months": {
+        "11": {
+          "24": [
+            {
+              "name": "The Piss Saga",
+              "slug": "the-piss-saga"
+            }
+          ],
+          "23": [
+            {
+              "name": "The Conjuring: Last Rites",
+              "slug": "the-conjuring-last-rites"
+            }
+          ],
+          "21": [
+            {
+              "name": "Percy Jackson & the Olympians: The Lightning Thief",
+              "slug": "percy-jackson-the-olympians-the-lightning-thief"
+            }
+          ],
+          "19": [
+            {
+              "name": "The Marksman",
+              "slug": "the-marksman-2021"
+            }
+          ],
+          "17": [
+            {
+              "name": "A Merry Little Ex-Mas",
+              "slug": "a-merry-little-ex-mas"
+            },
+            {
+              "name": "Pride & Prejudice",
+              "slug": "pride-prejudice"
+            }
+          ],
+          "15": [
+            {
+              "name": "Materialists",
+              "slug": "materialists"
+            },
+            {
+              "name": "Caddo Lake",
+              "slug": "caddo-lake"
+            },
+            {
+              "name": "Enemy",
+              "slug": "enemy"
+            }
+          ],
+          "12": [
+            {
+              "name": "No Sleep 'Til Christmas",
+              "slug": "no-sleep-til-christmas"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

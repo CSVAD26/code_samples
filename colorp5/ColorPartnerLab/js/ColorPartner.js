@@ -43,7 +43,24 @@ function draw() {
       framesElapsed = 0;
     }
   }
+
+  drawInstructions();
 }
+
+function drawInstructions() {
+  colorMode(RGB, 255);
+  noStroke();
+  fill(255);
+  rect(18, 18, 360, 82);
+
+  fill(0);
+  textSize(15);
+  textAlign(LEFT, TOP);
+  text("Keyboard controls:", 30, 28);
+  text("C = color shift, M = move swatch", 30, 48);
+  text("Wheel = adjust selected swatch color", 30, 68);
+}
+
 
 function keyPressed() {
   if (key === 'c') {

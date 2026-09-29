@@ -7,11 +7,14 @@ let accentColors = new Array(3);
 let numRows = 20;
 let numCols = 20;
 let grid = new Array(numRows);
+let gridHeight = 475;
 
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(500, 600);
+
   // The palette is regenerated once at startup and whenever the mouse is clicked.
   regeneratePalette = true;
+  
 }
 
 function draw() {
@@ -38,35 +41,39 @@ function draw() {
 
   // Draw the palette swatches and the randomized grid of color cells.
   drawPalette();
-  fill(255);
-  rect(0, height / 10 + 0.5 * height / 10, width, height / 20);
+ fill(255);
+ rect(0, gridHeight / 10 + 0.5 * gridHeight / 10, width, gridHeight / 20);
   drawGrid();
+ 
+ fill(0);
+  text("Mouse left-right changes hue, up-down changes brightness.", 20, height-20);
+  text("Click anywhere to generate a new palette and grid from primary swatches.", 20, height);
 }
 
 function drawPalette() {
   // Main base color swatch.
   fill(baseCol);
-  rect(0, 0, (3 * width) / 4, height / 10);
+  rect(0, 0, (3 * width) / 4, gridHeight / 10);
 
   // Complementary accent swatch.
   fill(accentCol);
-  rect((3 * width) / 4, 0, width / 4, height / 10);
+  rect((3 * width) / 4, 0, width / 4, gridHeight / 10);
 
   // Create a range of related base colors by varying brightness while keeping
   // the same hue and saturation.
   for (let i = 0; i < baseColors.length; i++) {
     let c = baseColors[i];
     fill(c);
-    rect(i * ((3 * width) / 4) / baseColors.length, height / 10,
-      ((3 * width) / 4) / baseColors.length + 1, height / 10);
+    rect(i * ((3 * width) / 4) / baseColors.length, gridHeight / 10,
+      ((3 * width) / 4) / baseColors.length + 1, gridHeight / 10);
   }
 
   // Create a smaller set of accent tones in the same way.
   for (let i = 0; i < accentColors.length; i++) {
     let c = accentColors[i];
     fill(c);
-    rect((3 * width / 4) + i * (width / 4) / accentColors.length, height / 10,
-      (width / 4) / accentColors.length + 1, height / 10);
+    rect((3 * width / 4) + i * (width / 4) / accentColors.length, gridHeight / 10,
+      (width / 4) / accentColors.length + 1, gridHeight/ 10);
   }
 }
 
@@ -76,8 +83,8 @@ function drawGrid() {
   for (let i = 0; i < numRows; i++) {
     for (let j = 0; j < numCols; j++) {
       fill(grid[i][j]);
-      rect(i * width / numRows, height / 5 + j * height / numCols,
-        width / numRows, height / numCols);
+      rect(i * width / numRows, gridHeight / 5 + j * gridHeight / numCols,
+        width / numRows, gridHeight / numCols);
     }
   }
 }

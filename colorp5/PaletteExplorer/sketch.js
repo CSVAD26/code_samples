@@ -1,13 +1,16 @@
+// Three example swatches that can be selected, moved, and recolored. Aids in understanding how color perception is relative based on other colors.
 let swatch1;
 let swatch2;
 let swatch3;
 
 let swatches = [];
+// While true, dragging or scrolling changes the selected swatch's color instead of moving it.
 let colorShift = false;
 
 function setup() {
   createCanvas(800, 800);
 
+  // Create swatches with different positions and sizes.
   swatch1 = new Swatch(100, 100, 500, 500);
   swatch2 = new Swatch(500, 100, 300, 100);
   swatch3 = new Swatch(400, 200, 200, 200);
@@ -19,6 +22,7 @@ function draw() {
   colorMode(RGB, 255);
   background(200, 200, 200);
 
+  // Draw every swatch, including its selection outline when selected.
   for (let i = 0; i < swatches.length; i++) {
     swatches[i].draw();
   }
@@ -28,6 +32,7 @@ function draw() {
 }
 
 function mousePressed() {
+  // Check from last to first so the visually topmost overlapping swatch is selected.
   for (let i = swatches.length - 1; i >= 0; i--) {
     let s = swatches[i];
     let hitTest = s.hitTest(mouseX, mouseY);
@@ -41,19 +46,23 @@ function mousePressed() {
 }
 
 function keyPressed() {
+  // Holding any key enables color-adjustment mode.
   colorShift = true;
 }
 
 function keyReleased() {
+  // Releasing the key returns dragging to movement mode.
   colorShift = false;
 }
 
 function mouseReleased() {
+  // End selection when the user releases the mouse button.
   deselectAllSwatches();
 }
 
 function mouseWheel(event) {
-  let e = round(event.delta); // event.getCount() equivalent
+  // Use wheel direction and amount as the color adjustment value.
+  let e = round(event.delta);
   for (let i = 0; i < swatches.length; i++) {
     let s = swatches[i];
     if (s.selected) {
@@ -66,13 +75,16 @@ function mouseWheel(event) {
 }
 
 function mouseDragged() {
+  // Compare the current pointer position with the previous frame's position.
   let delta = createVector(mouseX - pmouseX, mouseY - pmouseY);
   for (let i = 0; i < swatches.length; i++) {
     let s = swatches[i];
     if (s.selected) {
       if (!colorShift) {
+        // Normal drag moves the selected swatch with the pointer.
         s.moveBy(delta);
       } else {
+        // Holding a key while dragging adjusts the selected swatch's color.
         s.updateColor(delta, 0);
       }
       return;
@@ -81,6 +93,7 @@ function mouseDragged() {
 }
 
 function deselectAllSwatches() {
+  // Clear the selection state from every swatch.
   for (let i = 0; i < swatches.length; i++) {
     swatches[i].selected = false;
   }
@@ -90,6 +103,7 @@ function deselectAllSwatches() {
 
 class Swatch {
   constructor(x, y, w, h) {
+    // Store geometry and assign a random starting RGB color.
     this.pos = createVector(x, y);
     this.w = w;
     this.h = h;
@@ -98,6 +112,7 @@ class Swatch {
   }
 
   draw() {
+    // Draw the filled rectangle, then outline it if it is selected.
     fill(this.c);
     rect(this.pos.x, this.pos.y, this.w, this.h);
     if (this.selected) {
@@ -110,19 +125,24 @@ class Swatch {
   }
 
   hitTest(mx, my) {
+    // Return true when the pointer is inside this swatch's rectangle.
     return (mx > this.pos.x && mx < this.pos.x + this.w &&
             my > this.pos.y && my < this.pos.y + this.h);
   }
 
   moveBy(delta) {
+    // Add a pointer movement vector to the swatch's position.
     this.pos.add(delta);
   }
 
   updateColor(delta, wheelDelta) {
-    // Simple example: shift color channels
-    let r = red(this.c) + delta.x * 0.5 + wheelDelta;
+    console.log("updateColor", wheelDelta);
+    // Adjust red with horizontal dragging or the wheel, and green with vertical dragging.
+    // This changes RGB channels;
+    // WHEEL DELTA IS NOT RELIABLE ACROSS BROWSERS.
+    let r = red(this.c) + delta.x * 0.5;
     let g = green(this.c) + delta.y * 0.5;
-    let b = blue(this.c);
+    let b = blue(this.c) + wheelDelta* 0.5;
 
     this.c = color(constrain(r, 0, 255),
                    constrain(g, 0, 255),

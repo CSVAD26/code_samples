@@ -22,6 +22,9 @@ Experiments with triadic (120° apart) and tetradic (90° apart) color schemes
 #### **RelativeColor**
 Studies how colors appear different when placed next to other colors
 
+#### **EyeDropper**
+Click the included abstract image to sample a pixel color with p5.js `get()` and view its RGB values.
+
 ## Palette Examples
 
 #### **PaletteExplorer**

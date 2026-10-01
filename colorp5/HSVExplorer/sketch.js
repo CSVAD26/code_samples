@@ -21,10 +21,10 @@ function draw() {
   rect(0, 0, 200, height);
 
   // Second square (slightly darker)
-  fill(hue, 100, 70); // darkened by lowering brightness
+  fill(hue, 70, 100); // darkened by lowering brightness
   rect(200, 0, 200, height);
 
   // Third square (even darker)
-  fill(hue, 100, 40);
+  fill(hue, 40, 100);
   rect(400, 0, 200, height);
 }

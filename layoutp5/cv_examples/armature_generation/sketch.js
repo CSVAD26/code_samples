@@ -1,4 +1,6 @@
-//add citation of Jane's paper
+// Compare fine- and broad-scale image detail to estimate visual saliency,
+// then rank a set of candidate composition lines by how strongly they align
+// with salient regions in the live webcam image.
 let video;
 let saliencyGraphics;
 let lines = [];
@@ -15,7 +17,8 @@ function setup() {
 
   saliencyGraphics = createGraphics(640, 480);
 
-  // Define composition lines
+  // Candidate composition guides: thirds, diagonals, and center lines.
+  // The saliency analysis scores each line and emphasizes the three strongest.
   lines = [
     { p1: createVector(640 / 3, 0), p2: createVector(640 / 3, 480) },
     { p1: createVector((2 * 640) / 3, 0), p2: createVector((2 * 640) / 3, 480) },
@@ -27,7 +30,9 @@ function setup() {
     { p1: createVector(0, 480 / 2), p2: createVector(640, 480 / 2) },
   ];
 
-  // --- UI Controls ---
+  // Local and global blur control the two scales used by Difference of Gaussians.
+  // The threshold ignores weak saliency values; sigma controls how close
+  // salient pixels must be to a candidate line to contribute to its score.
   createP("Local Blur (detail)").style('color', '#fff').position(20, 490);
   blurSmallSlider = createSlider(0, 5, 1, 0.1).position(180, 495);
 
@@ -44,7 +49,7 @@ function setup() {
 function draw() {
   background(0);
 
-  // --- Step 1: Draw and process video ---
+  // --- Step 1: Capture the frame and estimate saliency ---
   image(video, 0, 0, 640, 480);
 
   let blurSmall = blurSmallSlider.value();
@@ -52,7 +57,8 @@ function draw() {
   let threshold = thresholdSlider.value();
   let sigmaFactor = sigmaSlider.value();
 
-  // Compute saliency (Difference of Gaussians)
+  // Reuse the offscreen buffer to make two grayscale, blurred copies of the frame.
+  // A smaller blur preserves fine detail; a larger blur represents broad structure.
   saliencyGraphics.image(video, 0, 0, 640, 480);
   saliencyGraphics.filter(GRAY);
   saliencyGraphics.filter(BLUR, blurSmall);
@@ -63,7 +69,8 @@ function draw() {
   saliencyGraphics.filter(BLUR, blurLarge);
   let largeBlur = saliencyGraphics.get();
 
-  // DoG
+  // Difference of Gaussians (DoG): per pixel, the absolute difference between
+  // the two blur scales highlights image detail that stands out from its context.
   let saliency = createImage(640, 480);
   smallBlur.loadPixels();
   largeBlur.loadPixels();
@@ -78,15 +85,18 @@ function draw() {
   }
   saliency.updatePixels();
 
-  // Draw saliency map
+  // Show the saliency image beside the original webcam frame.
   image(saliency, 640, 0);
 
-  // --- Step 2: Compute composition line scores ---
+  // --- Step 2: Score candidate composition lines ---
   saliency.loadPixels();
   let scores = lines.map(() => 0);
   let sigma = (max(640, 480) / 10) * sigmaFactor;
   let denom = 2 * sigma * sigma;
 
+  // Sample every fourth pixel to reduce computation. Ignore values below the
+  // threshold, then give each remaining pixel a Gaussian-weighted contribution
+  // to every line: pixels nearer a line contribute more strongly.
   for (let y = 0; y < 480; y += 4) {
     for (let x = 0; x < 640; x += 4) {
       let idx = (y * 640 + x) * 4;
@@ -102,7 +112,8 @@ function draw() {
     }
   }
 
-  // Normalize and rank
+  // Normalize by line length so longer candidates are not favored just because
+  // they span more pixels, then keep the three highest-scoring lines.
   for (let i = 0; i < lines.length; i++) {
     let len = dist(lines[i].p1.x, lines[i].p1.y, lines[i].p2.x, lines[i].p2.y);
     scores[i] /= len;
@@ -113,7 +124,7 @@ function draw() {
     .sort((a, b) => b.s - a.s)
     .slice(0, 3);
 
-  // --- Step 3: Overlay adaptive armature on both panels ---
+  // --- Step 3: Overlay the top-scoring adaptive guides on both panels ---
   drawCompositionLines(lines, ranked, 0, 0);     // over video
   drawCompositionLines(lines, ranked, 640, 0);   // over saliency
 
@@ -125,7 +136,7 @@ function draw() {
   text("Saliency Map + Armature", 960, 20);
 }
 
-// --- Helper: Draw composition lines ---
+// Draw all candidate lines at the requested panel offset, highlighting the top three.
 function drawCompositionLines(lines, ranked, xOffset, yOffset) {
   push();
   translate(xOffset, yOffset);
@@ -139,7 +150,9 @@ function drawCompositionLines(lines, ranked, xOffset, yOffset) {
   pop();
 }
 
-// --- Helper: Distance from point to line ---
+// Return the shortest distance from a pixel sample to a finite line segment.
+// The nearest point is clamped to either endpoint when the perpendicular falls
+// outside the segment; otherwise, use the perpendicular projection.
 function distPointToLine(px, py, x1, y1, x2, y2) {
   let A = px - x1;
   let B = py - y1;

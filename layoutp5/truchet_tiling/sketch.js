@@ -6,7 +6,7 @@ let patternB = [1, 0.5, 0.75, 0.25];
 let patternC = [0.75, 0.25, 1, 0.5];
 let patternD = [0.25, 0.75, 0.5, 1];
 
-let patternList = [patternA, patternB, patternC, patternD];
+let patternList = [patternB, patternB, patternC, patternD];
 
 function setup() {
   createCanvas(800, 800);

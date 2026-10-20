@@ -1,12 +1,12 @@
-let rW = 40;
-let rH = 40;
+let rW = 80;
+let rH = 80;
 
 let patternA = [1, 1, 1, 1];
-let patternB = [1, 0.5, 0.75, 0.25];
-let patternC = [0.75, 0.25, 1, 0.5];
-let patternD = [0.25, 0.75, 0.5, 1];
+let patternB = [0.5,0.5,0.5,0.5];
+//let patternC = [1, 1, 1, 1];
+//let patternD = [0.25, 0.75, 0.5, 1];
 
-let patternList = [patternB, patternB, patternC, patternD];
+let patternList = [patternA,patternB,patternB,patternA];
 
 function setup() {
   createCanvas(800, 800);
@@ -39,7 +39,7 @@ function setup() {
 function draw() {
   // nothing animated — same as Processing version
 }
-
+// accepts a value of 0-1 and converts it to a quadrant in radians
 function toQuadrant(v) {
   if (v <= 0.25) {
     return TWO_PI * 0.25;
@@ -58,6 +58,8 @@ function drawSeed(x, y, r) {
   rotate(r);
   noFill();
   rectMode(CENTER);
+  //strokeWeight(5);
+ // stroke(255,0,0);
   rect(0, 0, rW, rH);
   fill(255);
   noStroke();

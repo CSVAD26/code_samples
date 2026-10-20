@@ -16,7 +16,7 @@ function setup() {
   createCanvas(800, 400);
   imageMode(CENTER);
   // spawn a few butterflies
-  for (let i = 0; i < 12; i++) {
+  for (let i = 0; i < 20; i++) {
     let x = random(width);
     let y = random(height);
     let m = random(0.6, 1.4);

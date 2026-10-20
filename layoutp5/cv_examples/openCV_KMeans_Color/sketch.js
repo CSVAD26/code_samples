@@ -3,7 +3,7 @@
 let img;
 let outImg;
 let cvReady = false;
-let k = 3; // Number of color clusters; '+' and '-' change this value.
+let k = 5; // Number of color clusters; '+' and '-' change this value.
 
 function onOpenCvReady() {
   // Called by index.html when the asynchronous OpenCV.js script finishes loading.

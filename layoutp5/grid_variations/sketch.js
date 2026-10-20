@@ -1,9 +1,9 @@
 let showGrid = false;
 let margin;
-let cols = 2;
-let rows = 4;
+let cols = 10;
+let rows = 5;
 let partitions = [];
-let numPartitions = 4;
+let numPartitions = 20;
 
 function setup() {
   createCanvas(450, 600);
@@ -51,11 +51,11 @@ function generateRandomPartitions() {
   let used = Array(rows).fill().map(() => Array(cols).fill(false));
 
   let attempts = 0;
-  while (partitions.length < numPartitions && attempts < 50) {
+  while (partitions.length < numPartitions && attempts < 200) {
     attempts++;
 
     // Random width/height in grid units
-    let wCells = floor(random(1, cols + 1));
+    let wCells = floor(random(1, cols-cols/2));
     let hCells = floor(random(1, rows + 1));
 
     // Random top-left grid position

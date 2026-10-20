@@ -21,12 +21,13 @@ let pathPoints = [
   { x: 300, y: 200 },
   { x: 600, y: 150 },
   { x: 700, y: 400 },
+  { x: 200, y: 300 },
   { x: 400, y: 500 },
   { x: 150, y: 400 }
 ];
 
 let pathProgress = 0;   // 0..1 progress along path
-let velocity = 0.002;  // adjust this for faster/slower motion
+let velocity = 0.001;  // adjust this for faster/slower motion
 
 function preload() {
   for (let i = 1; i <= NUM_FRAMES; i++) {
@@ -85,8 +86,8 @@ function draw() {
   // --- draw current frame at position ---
   const img = frames[currentIndex];
   if (img) {
-    const maxW = 150; // size of animation on path
-    const maxH = 150;
+    const maxW = 50; // size of animation on path
+    const maxH = 50;
     let drawW = img.width;
     let drawH = img.height;
     const ratio = min(maxW / drawW, maxH / drawH, 1);

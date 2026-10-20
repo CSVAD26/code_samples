@@ -37,7 +37,7 @@ function draw() {
   let flapping = createVector(xNoise,yNoise);
   butterflyMover.applyForce(flapping);
   if (mouseIsPressed) {
-    let wind = createVector(0.1, 0);
+    let wind = createVector(0, 0.1);
     butterflyMover.applyForce(wind);
   }
   butterflyMover.update();

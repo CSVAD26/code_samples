@@ -18,7 +18,7 @@ function setup() {
   tooltipGraphics = createGraphics(2000, 400);
   // draw() will run continuously to support hover interaction
 
-  // Extract first 50 values data from CSV
+  // Extract first 100 values data from CSV
   for (let r = 0; r < 100; r++) { 
     if(earliestDate === undefined || compareDates(formatDate(table.getString(r, 'startDate')), earliestDate) === -1) {
       earliestDate = formatDate(table.getString(r, 'startDate'));
@@ -175,7 +175,7 @@ function computeDateDifference(aStr, bStr) {
   const dateA = new Date(a.year, a.month - 1, a.day);
   const dateB = new Date(b.year, b.month - 1, b.day);
   const diffTime = Math.abs(dateB - dateA);
-  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); 
+  const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); //check on this.
   return diffDays;
 }
 //return a value between 0 and 1 representing the normalized position of dateStr between earliestDate and latestDate

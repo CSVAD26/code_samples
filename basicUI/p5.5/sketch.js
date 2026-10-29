@@ -19,6 +19,7 @@ p5.initMetrics(31.5, 300);
 
 let lineWeightInMillimeters = 1;
 let textSizeInMullimeters = 5;
+let testVal = 0;
 
 
 // #############################################################################
@@ -46,12 +47,18 @@ function setup() {
     
     let gObj = {
 
-        lineWeightInMillimeters
+        lineWeightInMillimeters,
+        tweak2: testVal
     };
 
-    addGUI('CUSTOM TWEAKS ...')
-        .add(gObj, 'lineWeightInMillimeters', 1, 10, 1).name('lineWeight')
+
+    let gui = addGUI('CUSTOM TWEAKS ...');
+
+    gui.add(gObj, 'lineWeightInMillimeters', 1, 40, 1).name('lineWeight')
         .onChange(value => { lineWeightInMillimeters = value; });
+
+    gui.add(gObj2, 'tweak2', 1, 40, 2).name('tweak2')
+        .onChange(value => { testVal = value; });
 }
 
 

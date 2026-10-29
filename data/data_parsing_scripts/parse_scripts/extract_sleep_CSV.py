@@ -48,7 +48,7 @@ def extract_sleep_data(input_file, output_file):
         writer.writeheader()
         writer.writerows(sleep_records)
 
-    print(f"✅ Extracted {len(sleep_records)} sleep records to {output_file}")
+    print(f"Extracted {len(sleep_records)} sleep records to {output_file}")
 
 if __name__ == "__main__":
     extract_sleep_data(INPUT_FILE, OUTPUT_FILE)

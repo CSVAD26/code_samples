@@ -42,7 +42,7 @@ def compare_follow_data(followers_html, following_html, output_csv):
                 'profile_url': followers.get(username) or following.get(username) or ''
             })
 
-    print(f"✅ CSV saved to: {output_csv}")
+    print(f"CSV saved to: {output_csv}")
     print(f"Followers: {len(followers)} | Following: {len(following)} | Total unique: {len(all_usernames)}")
 
 
